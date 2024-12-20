@@ -1,0 +1,2141 @@
+{
+    "titleOfRepo": "Nepali Audiobooks",
+    "imageOfRepo": "some blah blah link",
+    "credits": [],
+    "audiobooks": [
+        {
+            "title": "China Harayeko Manchhe",
+            "description": "China Harayeko Manchhe (Nepali: \u091a\u093f\u0928\u093e \u0939\u0930\u093e\u090f\u0915\u094b \u092e\u093e\u0928\u094d\u091b\u0947) is an autobiography written by Hari Bansha Acharya. The story features a god-fearing man who happens to lose his \"China\" or \"Cheena\" (horoscope).<br><b>Synopsis</b><br>The storyline of Cheena Harayako Manchhe, is about a simple, god-fearing man who happens to lose his \"China\" or \"Cheena\" (horoscope). The autobiography depicts the author's childhood memories, fantasies and the struggles he had to face during his adolescent years. \u201cThe book is the tribute to my late wife Meera and proceeds from the book will go to a trust of her name,\u201d said the author at a press meet.<br>A polished and most celebrated comedian and film actor of Nepal, Acharya, during a launch ceremony of his book, wished he could be a god in his next life so that he in turn could transform the gods into human beings subject to pain, misery and suffering. He also made a confession that he had become an agnostic since all his efforts to save his wife, despite his devout worship of the gods, failed. \u201cI wrote this book to heal my pain of losing her,\u201d he further added.<br>Born 9 October 1958, to Homanjaya Acharya and Ganesh Kumari in Gairidharan, Kathmandu, Hari Bansha Acharya has two sons, Trilok and Mohit. Hari Bansha's name is inseparably linked with his comedian partner, Madan Krishna Shrestha, another celebrated comedian/actor of Nepal. ",
+            "totalTime": "",
+            "author": "Haribansha Acharya",
+            "subject": [
+                "Biography",
+                "Autobiography"
+            ],
+            "rating": 0,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/China_Harayeko_Manchhe.jpg/220px-China_Harayeko_Manchhe.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_1.mp3",
+                    "title": " Cheena Harayeko Manchhe 1 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_2.mp3",
+                    "title": " Cheena Harayeko Manchhe 2 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_3.mp3",
+                    "title": " Cheena Harayeko Manchhe 3 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_4.mp3",
+                    "title": " Cheena Harayeko Manchhe 4 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_5.mp3",
+                    "title": " Cheena Harayeko Manchhe 5 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_6.mp3",
+                    "title": " Cheena Harayeko Manchhe 6 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_7.mp3",
+                    "title": " Cheena Harayeko Manchhe 7 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_8.mp3",
+                    "title": " Cheena Harayeko Manchhe 8 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_9.mp3",
+                    "title": " Cheena Harayeko Manchhe 9 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_10.mp3",
+                    "title": " Cheena Harayeko Manchhe 10 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_11.mp3",
+                    "title": " Cheena Harayeko Manchhe 11 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_12.mp3",
+                    "title": " Cheena Harayeko Manchhe 12 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_13.mp3",
+                    "title": " Cheena Harayeko Manchhe 13 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_14.mp3",
+                    "title": " Cheena Harayeko Manchhe 14 "
+                },
+                {
+                    "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_15_-_final_%28with_Hari_Bansa_Acharya%29.mp3",
+                    "title": " Cheena Harayeko Manchhe 15 "
+                }
+            ]
+        },
+        {
+            "title": "Maha Ko Ma",
+            "description": "Maha Ko Ma (Nepali: \u092e\u0939\u0915\u094b \u092e) is an autobiography written by Madan Krishna Shrestha. \u201cMaha ko Ma\u201d is an autobiographical book that throws light on the unseen and perhaps the harsher side of the life of one of the most eminent entertainers in the Nepali entertainment scene, Madan Krishna Shrestha.",
+            "totalTime": "",
+            "author": "Madan Krishna Shrestha",
+            "subject": [
+                "Biography",
+                "Autobiography"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/mahakoma/mahakoma.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/rbsgyg/BULBUL.mp3",
+                    "title": "Bulbul"
+                },
+                {
+                    "url": "https://archive.org/download/hamkm/hamkm.mp3",
+                    "title": "Maha Ko Ma"
+                }
+            ]
+        },
+        {
+            "title": "Palpasa Caf\u00e9",
+            "description": "Palpasa Cafe (Nepali:\u092a\u0932\u094d\u092a\u0938\u093e \u0915\u094d\u092f\u093e\u092b\u0947) is a novel by Nepali author Narayan Wagle. It tells the story of an artist, Drishya, during the height of the Nepalese Civil War. The novel is partly a love story of Drishya and the first generation American Nepali, Palpasa, who has returned to the land of her parents after 9/11. It is often called an anti-war novel, and describes the effects of the civil war on the Nepali countryside that Drishya travels to.<br>The book has been a best-seller in Nepal, creating a sales record for a Nepali book of 25,000 copies in the first year. It was Wagle's first book. Since its release, the book has received many honours including the highly prestigious literary award in Nepal, the Madan Puraskar. After Palpasa Cafe, Wagle has written another best-selling book, Mayur Times.<br>The book was written originally in Nepali and was later translated into English and Korean. The book has sold over 52,000 copies as of July 2012. Palpasa Cafe has officially become the first Nepali novel available in Kindle, it also comes in various portable and ebook formats like mobi and pdf.<br><b>Synopsis</b><br>The novel begins with Narayan Wagle waiting for his friend Drishya. Wagle tells that he is writing about Drishya who is an artist living in Kathmandu and has an ambitious idea to build a cafe in his village during the time when civil war is still going on. While waiting he learns that Drishya is kidnapped by \"security personnel\". Learning that the protagonist of his book has just been kidnapped, he is stunned and starts to contemplate his fate and the fate of Nepal.<br>The story of Drishya starts in Goa where he meets Palpasa, a Nepalese girl aspiring to become a documentary maker who has just returned from US. They have immediate connection but they both decide go their own way. Drishya returns to Kathmandu where he continues his art work in his studio. He reaches a small library with collection of old books for research where he meets Palpasa again. They both start meeting together and the attraction is undeniable.<br>Later Drishya is visited by Siddhartha, his friend from college. Siddhartha says that he is a Maoist in hiding and asks for shelter. He invites him in and they start talking about the state of Nepal. Drishya asks if the violence is justified even if their cause is good and Siddhartha replies that the violence was first started by the state and all the violence is justifiable for the greater good. They can't reach to an agreement so Siddhartha challenges Drishya to \"see\" what Nepal is like. Drishya accepts and then visits the western hill villages.<br>He meets a girl who is about to join Maoist on Siddhartha's insistence that she is going to become part of greater revolution. On reaching his village he meets Laure Kaka whose daughter is now a Maoist fighter and he doesn't know where his son is. Kaka tells him how his village could be made prosperous and he himself is farming coffee. He leaves the village and shares the walk with some foreigners who have built a school on his way to district headquarter. There he stays in a lodge and almost dies in a Maoist attack. He leaves the next day to go to his Mit's home where he learns that he has died and his Mitba and Mitama don't want him around as he reminds of their son.<br>Then he decides to return to Kathmandu as he has \"understood his country\" but wants to meet Siddhartha before he returns but mistakenly causes Siddhartha's death by pointing him out. Guilt ridden Drishya catches a bus back to Kathmandu where he finds Palpasa by his side who is also on her way back after her attempt to make documentary. Then both are glad that they met each other and try to talk about his abrupt leave from Kathmandu and the journey both of them had after that. Palpasa is killed in the bus explosion which Drishya survives as he had stepped outside.<br>Drishya returns to Kathmandu but is haunted by Palpasa for a long time. He starts painting a series of paintings titled Palpasa which helps him get some peace. He then continues in his life as an artist running with the dream to go back to his village to build the 'Palpasa Cafe'. Some people who claim to be security personnel come to visit him and force him to go along with them and his story ends there.<br>In the epilogue, Wagle has just completed his book. A girl called Gemini who asks him to help find her lost friend. He is not sure how he can help and on asking more about who her friend is, he discovers that it is Palpasa. He informs her that she is not coming back and he knows it because he wrote a book about her. He hands her the draft if she wanted to read with the title 'Palpasa Cafe'.",
+            "totalTime": "",
+            "author": "Narayan Wagle",
+            "subject": [
+                "Fiction",
+                "Romance",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/palpasa%20cafe.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/ha12n/PACF1.mp3",
+                    "title": "Palpasa Cafe Part 1"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/PACF2.mp3",
+                    "title": "Palpasa Cafe Part 2"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/PACF3.mp3",
+                    "title": "Palpasa Cafe Part 3"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/PACF4.mp3",
+                    "title": "Palpasa Cafe Part 4"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/PACF5.mp3",
+                    "title": "Palpasa Cafe Part 5"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/PACF6.mp3",
+                    "title": "Palpasa Cafe Part 6"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/PACF7.mp3",
+                    "title": "Palpasa Cafe Part 7"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/PACF8.mp3",
+                    "title": "Palpasa Cafe Part 8"
+                }
+            ]
+        },
+        {
+            "title": "Seto Dharti",
+            "description": "Seto Dharti (Nepali: \u0938\u0947\u0924\u094b \u0927\u0930\u0924\u0940, lit.\u2009'White earth') is a Nepali novel written by Amar Neupane. It was published in 2012 by FinePrint Publication. It is the second novel of the author who previously penned a novel called Paniko Gham. It won the Madan Puraskar, the biggest literary award in Nepal.<br><b>Synopsis</b><br>The story is based on the life of a girl named Tara. She is a simple girl living in her village spending her time playing with other children of same village. While the story goes on, she gets married at the age of seven, the very age at which she does not even understand the meaning of marriage. The story in the novel is of the time period 1933-2011 when child marriage used to be very common in Nepalese society.<br>Tara's husband has to go for his studies to Banaras, where he dies. Tara, a nine years old girl, is now bound to live her life as a child widow. The story continues and many difficulties come one by one in Tara's life. She comes back from her husband's home to her father's home. She tries to live her life peacefully trying to forget all the pain that life gave her when she was a young child. Later on, her mother dies and she has to take over all the responsibilities of the house.<br>At her adult age, she leaves her father's house as she gets abused by her stepmother and moves to Devghat, a religious place for Hindus. There she makes a small hut and starts to live a long, boring life. The story mainly tries to reveal the terrible cultural practice called child marriage and child widowhood. This story portrays the pain of a child widow living her whole life without company. The novel best tries to shows bitter reality of Nepalese society where women have to suffer very much before the eradication of many evil practice. ",
+            "totalTime": "",
+            "author": "Amar Neupane",
+            "subject": [
+                "Fiction",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/setodharti.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/Amar%20Neupane%20-%20Sero%20Dharti%20-%2001%20-%20Shruti-Sambeg%20-2014-08-29.mp3",
+                    "title": "  Seto Dharti Part 1   "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SeroDharti-02-Shruti-sambeg-2014-09-05.mp3",
+                    "title": "  Seto Dharti Part 2   "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SeroDharti-03-Shruti-sambeg-2014-09-12.mp3",
+                    "title": "  Seto Dharti Part 3   "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SeroDharti-04-Shruti-sambeg-2014-09-19.mp3",
+                    "title": "  Seto Dharti Part 4   "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SeroDharti-05-Shruti-sambeg.mp3",
+                    "title": "  Seto Dharti Part 5   "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SeroDharti-06-Shruti-sambeg.mp3",
+                    "title": "  Seto Dharti Part 6   "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SeroDharti-07-Shruti-sambeg.mp3",
+                    "title": "  Seto Dharti Part 7   "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SeroDharti-08-Shruti-sambeg.mp3",
+                    "title": "  Seto Dharti Part 8   "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-09-Shurti-sambeg-2014-10-24.mp3",
+                    "title": "  Seto Dharti Part 9   "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-10-Shurti-sambeg-2014-10-31.mp3",
+                    "title": "  Seto Dharti Part 10  "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-11-Shurti-sambeg-2014-11-07.mp3",
+                    "title": "  Seto Dharti Part 11  "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-12-Shurti-sambeg-2014-11-14.mp3",
+                    "title": "  Seto Dharti Part 12  "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-13-Shurti-sambeg-2014-11-21.mp3",
+                    "title": "  Seto Dharti Part 13  "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-14-Shurti-sambeg-2014-11-28.mp3",
+                    "title": "  Seto Dharti Part 14  "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-15-Shurti-sambeg-2014-12-12.mp3",
+                    "title": "  Seto Dharti Part 15  "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-16-Shurti-sambeg-2014-12-19.mp3",
+                    "title": "  Seto Dharti Part 16  "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-17-Shurti-sambeg-2014-12-26.mp3",
+                    "title": "  Seto Dharti Part 17  "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-18-Shurti-sambeg-2015-01-02.mp3",
+                    "title": "  Seto Dharti Part 18  "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-19-Shurti-sambeg-2015-01-09.mp3",
+                    "title": "  Seto Dharti Part 19  "
+                },
+                {
+                    "url": "https://archive.org/download/AmarNeupaneSeroDharti/AmarNeupane-SetoDharti-Abstract_interview_with_amar_neupane-Shurti-sambeg-2015-01-16.mp3",
+                    "title": "  Seto Dharti Interview    "
+                }
+            ]
+        },
+        {
+            "title": "Karnali Blues",
+            "description": "Karnali Blues (Nepali: \u0915\u0930\u094d\u0928\u093e\u0932\u0940 \u092c\u094d\u0932\u0941\u091c) is book written by Buddhi Sagar and published by FinePrint publication, Nepal in 2010. Karnali Blues is a story about a young boy who travels through different phases of his life with his parents. The story's main focus is on the protagonist's father. The book is one of the best selling Nepalese novels.<br><b>Synopsis</b><br>The novel depicts the father-son relationship in a family from the Mid-western region of Nepal. The family had descended from Surkhet to the plains around present Bardiya National Park when the forest lands had opened up to agriculture, and then moved to Kalikot.<br>Brisha Bahadur, the narrator of the novel, is born into a Pahari family. They are one of the hill people families, who have been moving down to the plains in growing numbers over the past fifty years to open up newly cleared forest lands for agriculture. Brisha Bahadur's family belongs to this community, which dominates local commerce, trade and politics and forms a majority in the small bazaar towns of the district.<br>The story of Brisha's childhood is intertwined with a parallel story that begins with Brisha's father's admission into a hospital when Brisha is a teenager. Brisha Bahadur narrates his father's struggles. The novel is divided into eleven days. Brisha Bahadur is taking care of his father who is sick in those eleven days and he reminisces his past with his parents.<br>The novel is loosely modelled after Buddhi's own childhood, which passed in the same municipalities, although with different circumstances. ",
+            "totalTime": "",
+            "author": "Buddhisagar",
+            "subject": [
+                "Fiction",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Karnali_Blues_by_Buddhisagar.jpg/220px-Karnali_Blues_by_Buddhisagar.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/Ss_karnaliBlues/ShrutiSambegkarnaliBlues2069Ashoj30_epi01.mp3",
+                    "title": "  Karnali Blues Part 1     "
+                },
+                {
+                    "url": "http://ia801608.us.archive.org/22/items/Ss_karnaliBlues02/ShrutiSambegkarnaliBlues2069Kartik07_epi02.mp3",
+                    "title": "  Karnali Blues Part 2     "
+                },
+                {
+                    "url": "http://ia801600.us.archive.org/5/items/Ss_karnaliBlues03/ShrutiSambegkarnaliBlues2069Kartik14_epi03.mp3",
+                    "title": "  Karnali Blues Part 3     "
+                },
+                {
+                    "url": "http://ia601609.us.archive.org/9/items/Ss_karnaliBlues04/ShrutiSambegkarnaliBlues2069Kartik21_epi04.mp3",
+                    "title": "  Karnali Blues Part 4     "
+                },
+                {
+                    "url": "http://ia601608.us.archive.org/33/items/Ss_karnaliBlues05/ShrutiSambegkarnaliBlues2069Kartik28_epi05.mp3",
+                    "title": "  Karnali Blues Part 5     "
+                },
+                {
+                    "url": "http://ia601608.us.archive.org/32/items/Ss_karnaliBlues06/ShrutiSambegkarnaliBlues2069Mangshir05_epi06.mp3",
+                    "title": "  Karnali Blues Part 6     "
+                },
+                {
+                    "url": "http://ia601607.us.archive.org/10/items/Ss_karnaliBlues07/ShrutiSambegkarnaliBlues2069Mangshir12_epi07.mp3",
+                    "title": "  Karnali Blues Part 7     "
+                },
+                {
+                    "url": "http://ia601600.us.archive.org/34/items/Ss_karnaliBlues08/ShrutiSambegkarnaliBlues2069Manghsir19_epi08.mp3",
+                    "title": "  Karnali Blues Part 8     "
+                },
+                {
+                    "url": "http://ia601607.us.archive.org/27/items/SS_KarnaliBlues09/ShrutiSambegkarnaliBlues2069Manghsir26_epi09.mp3",
+                    "title": "  Karnali Blues Part 9     "
+                },
+                {
+                    "url": "http://ia601608.us.archive.org/14/items/SS_KarnaliBlues10/ShrutiSambegkarnaliBlues2069Poush03_epi10.mp3",
+                    "title": "  Karnali Blues Part 10    "
+                },
+                {
+                    "url": "http://ia601601.us.archive.org/26/items/Episode11-KarnaliBluzeByBuddiSagar11th2012-12-25/Episode11-KarnaliBluzeByBuddiSagar11th2012-12-25.mp3",
+                    "title": "  Karnali Blues Part 11    "
+                },
+                {
+                    "url": "https://ia601601.us.archive.org/24/items/ShrutiSambegkarnaliBlues2069Poush17Epi12/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20poush%2017_epi12.mp3",
+                    "title": "  Karnali Blues Part 12    "
+                },
+                {
+                    "url": "https://ia601602.us.archive.org/29/items/ShrutiSambegkarnaliBlues2069Poush24Epi13/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20poush%2024_epi13.mp3",
+                    "title": "  Karnali Blues Part 13    "
+                },
+                {
+                    "url": "https://ia601606.us.archive.org/6/items/ShrutiSambegkarnaliBlues2069Magh02Epi14/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20Magh%2002_epi14.mp3",
+                    "title": "  Karnali Blues Part 14    "
+                },
+                {
+                    "url": "https://ia801605.us.archive.org/25/items/ShrutiSambegkarnaliBlues2069Magh09Epi15/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20Magh%2009_epi15.mp3",
+                    "title": "  Karnali Blues Part 15    "
+                },
+                {
+                    "url": "https://ia801609.us.archive.org/34/items/ShrutiSambegkarnaliBlues2069Magh16Epi16/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20Magh%2016_epi16.mp3",
+                    "title": "  Karnali Blues Part 16    "
+                },
+                {
+                    "url": "https://ia801603.us.archive.org/6/items/ShrutiSambegkarnaliBlues2069Magh23Epi17/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20Magh%2023_epi17.mp3",
+                    "title": "  Karnali Blues Part 17    "
+                },
+                {
+                    "url": "https://ia801606.us.archive.org/9/items/ShrutiSambegkarnaliBlues2069Falgun01Epi18/Shruti%20Sambeg%20%28karnali%20Blues%29%202069%20Falgun%2001_epi%2018.mp3",
+                    "title": "  Karnali Blues Part 18    "
+                }
+            ]
+        },
+        {
+            "title": "Shirish Ko Phool",
+            "description": "Shirishko Phool (Nepali: \u0936\u093f\u0930\u0940\u0937\u0915\u094b \u092b\u0942\u0932; translated into English as Blue Mimosa), published in 1964, is a Nepali language novel by Parijat. It was the author's first and most successful novel. It was awarded the Madan Puraskar in 1965.<br><b>Synopsis</b><br>Born in an affluent family in Darjeeling, Parijat moved to Kathmandu and pursued her studies in English literature. According to her, having studied many French, Russian and Indian novels in particular, she found herself very disappointed with Nepali novels. Therefore, despite having started out as a poet, she resolved to produce an exceptional Nepali language novel. She wrote four novels while she was studying for her I.A. and B.A. degrees, all of which she burned off. Then, she became bed-ridden with illness for three years, and wrote her fifth novel Shirishko Phool in that period, which she chose to publish. Shankar Lamichhane, a prominent writer and litterateur wrote the foreword for the novel.<br><b>Synopsis</b><br>Suyog meets Sakambari and her two sisters through Shivaraj. Suyog is a lonely middle-aged man and sees the three sisters with eyes of lust. He views Mujura as the quintessential woman with all the feminine virtues and the most logical choice for a wife. However, he is drawn towards Sakambari who is a rebellious personality who does not adhere to the traditional expectations of how a woman should act or dress. He finds his philosophies strongly at odds with Sakambari's and their acquaintance leads him to reevaluate his past life and actions. He comes to accept his acts such as the rape of three women he committed during the war, which he had previously rationalised as acceptable under the peril of immediate death both he and his victims were under at the time, as criminal. Suyog finds himself unable to continue without love or redemption. Reasoning that either Bari will accept him and he will have happiness or she will hurt or kill him for the transgression giving him redemption, Suyog gets hold of her and kisses her. However, Bari simply looks deeply into him and strides off, vanishing into the house. Suyog is left distraught and confused. Months after the incident, he finds out that Sakambari has died.",
+            "totalTime": "",
+            "author": "Parijat",
+            "subject": [
+                "Fiction",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/blue%20mimosa%20sishir%20ko%20phool.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "http://www.archive.org/download/ShiriskoPhoolByPari/shiris_ko_phool_1.mp3 ",
+                    "title": "Shirish Ko Phool Part 1"
+                },
+                {
+                    "url": "http://www.archive.org/download/ShiriskoPhoolByPari/shirish_ko_phool_2.mp3 ",
+                    "title": "Shirish Ko Phool Part 2"
+                },
+                {
+                    "url": "http://www.archive.org/download/ShiriskoPhoolByPari/shirish_ko_phool_3.mp3 ",
+                    "title": "Shirish Ko Phool Part 3"
+                },
+                {
+                    "url": "http://www.archive.org/download/ShiriskoPhoolByPari/shirish_ko_phool_4.mp3 ",
+                    "title": "Shirish Ko Phool Part 4"
+                },
+                {
+                    "url": "http://www.archive.org/download/ShiriskoPhoolByPari/Sirish_ko_Bhumika_and_maile_najanmayeko_chhoro_parijat.mp3",
+                    "title": "Sirish Ko Bhumika and Maile Najanmayeko Chhoro"
+                }
+            ]
+        },
+        {
+            "title": "Summer Love",
+            "description": "Summer Love is a Nepali novel by Subin Bhattarai published by Fine Print in 2012.<br>Bhattarai's second book and first novel, the plot concerns college students at the Central Department of Environmental Science (CDES) at Tribhuvan University falling in love. It was a best selling book in Nepal with in excess of 20,000 copies sold, and one of the best-selling books in the country for the year. Saaya is the sequel Summer Love Novel. Summer Love is now available in English. Pratima Sharma translated the book from Nepali to English.<br>A sequel titled Saaya was released in September 2014.<br><b>Plot</b><br>Writer is on a cruise ship where he meets another Nepali person, Atit. As writer introduces himself, Atit asks the writer if he is willing to write Atit's love story. Reluctantly, the writer agrees to listen to his story.<br>Atit is curious to find out the entrance topper Saaya, who also has the same way back to home as Atit has. As days pass, Atit and Saaya become good friends and eventually, Atit proposes to Saaya. Saaya accepts the proposal. But the same day, both are them are divided into two different lab groups. One group has lab work in morning while other in afternoon. Now they have to come and leave college separately. After the division, Atit and Saaya start to bunk classes. Meanwhile Atit secures second spot after First Semester as Saaya helped him during exams. After finishing MSc, Atit has to go to Dhangadi as he secured a job in a NGO meanwhile Saaya; Norway, to pursue higher degree of education. One month later, Saaya returns to Nepal through Delhi and they marry. After some months, Atit goes to meet Saaya's parents to talk about their marriage but Saaya's parents decline as Atit is from Bramhin class and they are Newars. Saaya starts to move on while Atit falls in depression. With the help of Sushmita, his office's receptionist and neighbour, Atit does not commit suicide but they eventually have physical relation. Atit starts a search for Saaya and goes to Norway. In Norway, he meets Saaya and tells about the intimate relation he had with Sushmita.<br>In the end, writer shows interest in meeting Saaya and learning her side of the story. Atit gives Saaya's address but writer is unable to meet Saaya as she had gone to Kathmandu to write a thesis.",
+            "totalTime": "",
+            "author": "Subin Bhattarai",
+            "subject": [
+                "Fiction",
+                "Romance",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Summer_Love_%28novel%29.jpg/220px-Summer_Love_%28novel%29.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/rbsgyg/SubinBhattarai-SummerLove-1-hamroAwaz.mp3",
+                    "title": "  Summer Love Part 1   "
+                },
+                {
+                    "url": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-2-hamroAwaz.mp3",
+                    "title": "  Summer Love Part 2   "
+                },
+                {
+                    "url": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-3-hamroAwaz.mp3",
+                    "title": "  Summer Love Part 3   "
+                },
+                {
+                    "url": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-4-hamroAwaz.mp3",
+                    "title": "  Summer Love Part 4   "
+                },
+                {
+                    "url": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-5-hamroAwaz.mp3",
+                    "title": "  Summer Love Part 5   "
+                },
+                {
+                    "url": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-6-hamroAwaz.mp3",
+                    "title": "  Summer Love Part 6   "
+                },
+                {
+                    "url": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-7-hamroAwaz.mp3",
+                    "title": "  Summer Love Part 7   "
+                },
+                {
+                    "url": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-8-hamroAwaz.mp3",
+                    "title": "  Summer Love Part 8   "
+                },
+                {
+                    "url": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-9-hamroAwaz.mp3",
+                    "title": "  Summer Love Part 9   "
+                },
+                {
+                    "url": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-10-hamroAwaz.mp3",
+                    "title": "  Summer Love Part 10  "
+                },
+                {
+                    "url": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-11-hamroAwaz.mp3",
+                    "title": "  Summer Love Part 11  "
+                },
+                {
+                    "url": "https://archive.org/download/rbsgyg/Subinbhattarai-summerlove-interview-hamroAwaz.mp3",
+                    "title": "  Summer Love Interview    "
+                }
+            ]
+        },
+        {
+            "title": "Pagal Basti",
+            "description": "Pagal Basti (Nepali: \u092a\u093e\u0917\u0932 \u092c\u0938\u094d\u0924\u0940, lit.\u2009'Lunatics' Settlement') is a 1991 Nepalese novel written by Saru Bhakta. It was published in 1991 by Sajha Prakashan. It won Nepal's foremost literary award, Madan Puraskar.<br>The story starts with narrator's journey to Ghandruk. Martha, the protagonist, is a teacher in Prithivi Narayan Campus. In her journey along with some other writers, she talks about Pashchimanchal Campus, a popular engineering college. The book is written in a simple language. However, the prose can be difficult to understand.<br><b>Synopsis</b><br>The main characters in the story are (Adiguru) Prashant and (Adimata) Martha. The major focus of the book is the continuous changes that occur in the mental state of these two characters. Both of the characters are dissatisfied with each other and both feel guilty about their past. They have both started a journey of to end their dissatisfaction and face their guilt. Prashant, who had loved Martha has changed into Adiguru after her refusal. Martha realizes the value of love only after she rejects Prashant and she goes on a quest of finding him in the Adi village. But this time Prashant rejects her proposal and instead changes her into Adimata.He was in love with Sri. She was a beautiful lady. ",
+            "totalTime": "",
+            "author": "Sarubhakta",
+            "subject": [],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/pagal%20basti.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "http://ia600602.us.archive.org/8/items/Shrutisambeg_PagalBasti01/shrutisambeg.mp3",
+                    "title": " Pagal Basti Part 1"
+                },
+                {
+                    "url": "http://ia600504.us.archive.org/25/items/SS_Pagalbasti02/shrutisambeg.mp3",
+                    "title": " Pagal Basti Part 2"
+                },
+                {
+                    "url": "https://ia801301.us.archive.org/2/items/PagalBasti/Pagal%20Basti%20-%20003.mp3",
+                    "title": " Pagal Basti Part 3"
+                },
+                {
+                    "url": "https://ia801301.us.archive.org/2/items/PagalBasti/Pagal%20Basti%20-%20004.mp3",
+                    "title": " Pagal Basti Part 4"
+                },
+                {
+                    "url": "https://ia801301.us.archive.org/2/items/PagalBasti/Pagal%20Basti%20-%20005.mp3",
+                    "title": " Pagal Basti Part 5"
+                },
+                {
+                    "url": "http://www.archive.org/download/PagalBastiPart6/PagalBasti6.mp3",
+                    "title": " Pagal Basti Part 6"
+                },
+                {
+                    "url": "http://www.archive.org/download/PagalBastiPart78/PagalBasti7.mp3",
+                    "title": " Pagal Basti Part 7"
+                },
+                {
+                    "url": "http://www.archive.org/download/PagalBastiPart78/PagalBasti8.mp3",
+                    "title": " Pagal Basti Part 8"
+                },
+                {
+                    "url": "https://ia801301.us.archive.org/2/items/PagalBasti/Pagal%20Basti%20-%20009.mp3",
+                    "title": " Pagal Basti Part 9"
+                },
+                {
+                    "url": "http://ia600703.us.archive.org/13/items/PagalBasti10/PagalBasti10.mp3",
+                    "title": " Pagal Basti Part 10"
+                },
+                {
+                    "url": "http://ia600705.us.archive.org/23/items/Ss_pagalBasti11/Shrutisambeg11.mp3",
+                    "title": " Pagal Basti Part 11"
+                },
+                {
+                    "url": "http://ia600701.us.archive.org/10/items/Ss_pagalBasti12/PagalBasti12th.mp3",
+                    "title": " Pagal Basti Part 12"
+                },
+                {
+                    "url": "http://ia600700.us.archive.org/9/items/Ss_pagalBasti13/PagalBasti13.mp3",
+                    "title": " Pagal Basti Part 13"
+                },
+                {
+                    "url": "http://www.archive.org/download/Ss_pagalBasti_14/Shruti-Sambeg-2011-09-27.mp3",
+                    "title": " Pagal Basti Part 14"
+                }
+            ]
+        },
+        {
+            "title": "Sumnima",
+            "description": "Sumnima (Nepali: \u0938\u0941\u092e\u094d\u0928\u093f\u092e\u093e) is a Nepali novel by B. P. Koirala. The book was published in 1969 by Sajha Prakashan. and describes a story of a Kirat woman and a Brahmin boy. Koirala was the first elected prime minister of Nepal. Koirala wrote the book in eight days (June 21 to 28, 1964) during his imprisonment in Sundarijal jail. <br><b>Synopsis</b><br>Sumnima is a psychological love story between a Brahmin boy named Somdutta and a Kirati girl, the title of this novel, Sumnima. Somdutta is devoted to Brahmin rituals worshipping the Hindu gods. He practises celibacy and sex for him is a mode of reproduction only. Sumnima is very down to earth and knows how to live naturally. They spend a long time on the Koshi riverside and develop a deep affinity with each other. After their separation, Somdutta knows that Sumnima has become deeply rooted in his heart. The sexual desire for Sumnima haunts Somdutta till the end of his life. He realizes that the celibacy education, which should be a ladder to salvation and austerity, instead kept him away from true happiness and experiencing life.<br>The novel discusses the issues of minority, cultural differences and ethnic consciousness through innocent characters. It documents the conflict and problems among the people living in the same area.",
+            "totalTime": "",
+            "author": "Bishweshwar Prasad Koirala",
+            "subject": [
+                "Fiction",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Sumnima_BP_Koirala.jpg/220px-Sumnima_BP_Koirala.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "http://ia700202.us.archive.org/4/items/Sumnima_episode01/ShrutiSambeg_sumnima_asaar29.mp3",
+                    "title": "Sumnima Part 1"
+                },
+                {
+                    "url": "http://ia700102.us.archive.org/1/items/SS_Sumnima02_Shrawan04/ShrutiSambeg_sumnima_shrawan04.mp3",
+                    "title": "Sumnima Part 2"
+                },
+                {
+                    "url": "http://ia700208.us.archive.org/1/items/SS_Sumnima04_Sharawan18/ShrutiSambeg3_sumnima_shrawan11.mp3",
+                    "title": "Sumnima Part 3"
+                },
+                {
+                    "url": "http://ia700204.us.archive.org/8/items/SS_Sumnima005_Shrawan18/ShrutiSambeg4_sumnima_shrawan18.mp3",
+                    "title": "Sumnima Part 4"
+                },
+                {
+                    "url": "http://ia600207.us.archive.org/1/items/SS_Sumnima004_Shrawan18/ShrutiSambeg5_sumnima_shrawan25.mp3",
+                    "title": "Sumnima Part 5"
+                },
+                {
+                    "url": "http://ia700204.us.archive.org/9/items/SS_Sumnima_Epi06_20670501/ShrutiSambeg6_sumnima_bhadra01.mp3",
+                    "title": "Sumnima Part 6"
+                },
+                {
+                    "url": "http://ia700508.us.archive.org/7/items/SS_Sumnima_Epi07_20670508/ShrutiSambeg7_sumnima_bhadra08.mp3",
+                    "title": "Sumnima Part 7"
+                },
+                {
+                    "url": "http://ia600506.us.archive.org/15/items/Sumnima_08_20670515/ShrutiSambeg8_sumnima_bhadra15.mp3",
+                    "title": "Sumnima Part 8"
+                }
+            ]
+        },
+        {
+            "title": "Radha",
+            "description": "Radha (Nepali: \u0930\u093e\u0927\u093e) is a 2005 novel written by Krishna Dharabasi, winner of prestigious Nepali literary award Madan Puraskar. The novel was an adaptation of the ancient Sanskrit epic Mahabharat, giving greater prominence to the character of Radha. Inspired by Jacques Derrida's Theory of Deconstruction, Dharabasi completely changed the characters of Radha and Krishna, making Radha brave, dignified and revolutionary.<br><b>Synopsis</b><br>The plot of Radha reflects the situation in Nepal at the time of its publication, especially the Nepalese Civil War.<br>Radha is an example of \u201cLila Lekhan\u201d, a Nepalese metaphysical novel concerned with explaining the features of reality that exist beyond the physical world and our immediate senses, for which Dharabasi is known.<br>The book is translated into English as Radha: Love, War, and Renunciation by Mahesh Paudyal.",
+            "totalTime": "",
+            "author": "Krishna Dharabasi",
+            "subject": [
+                "Fiction",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Radha_%28Novel%29.jpg/220px-Radha_%28Novel%29.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "http://www.archive.org/download/radha1/radha_1.mp3",
+                    "title": "Radha Part 1"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha2/radha_2.mp3",
+                    "title": "Radha Part 2"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha3/radha_3.mp3",
+                    "title": "Radha Part 3"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha4/radha_4.mp3",
+                    "title": "Radha Part 4"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha5/radha_5.mp3",
+                    "title": "Radha Part 5"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha6/radha_6.mp3",
+                    "title": "Radha Part 6"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha7/radha_7.mp3",
+                    "title": "Radha Part 7"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha8/radha_8.mp3",
+                    "title": "Radha Part 8"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha9/radha_9.mp3",
+                    "title": "Radha Part 9"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha10/radha_10.mp3",
+                    "title": "Radha Part 10"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha11/radha_11.mp3",
+                    "title": "Radha Part 11"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha12/radha_12.mp3",
+                    "title": "Radha Part 12"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha13/radha_13.mp3",
+                    "title": "Radha Part 13"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha14/radha_14.mp3",
+                    "title": "Radha Part 14"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha15/radha_15.mp3",
+                    "title": "Radha Part 15"
+                },
+                {
+                    "url": "http://www.archive.org/download/radha16/radha_16.mp3",
+                    "title": "Radha Part 16"
+                }
+            ]
+        },
+        {
+            "title": "Saaya",
+            "description": "Saaya is a 2014 Nepali novel by Subin Bhattarai. It published by Fine Print in 2014 as sequel to Summer love. Bhattarai's third book and second novel, the plot concerns how the misunderstanding in Summer love cleared and how they convince their family. It was a best selling book in Nepal and it was reprinted in the same month August, and was one of the best-selling books in the country for the year. The book was launched by actresses Garima Panta and Keki Adhikari, and author Bhattarai himself at Nepal Academy, Kamaladi.<br><b>Synopsis</b><br>It is the sequel of Summer Love. It is based on point of view of narrator, Atit, Saaya and Susmita. According to the story, narrator takes the responsibility to mend the things between Atit and Saaya. Two years after the book about Atit's love story is published, the writer comes in contact with Saaya to know her story. Saaya says about her opinions and why she dissolved the relationship with Atit. She also says about physical relationship between Susmita and Atit. The narrator tries to know the fact from Susmita. Susmita also accepts what happened and also shows that there was Saaya's fault in Atit's poor mental health. Narrator with the help of Sushmita finally convinces Saaya that she should continue her relationship with Atit. Saaya also goes to live with Atit. After sometime, they both come to Nepal and have short talks with writer. Atit visits his hometown, Dhangadhi and also calls Saaya there. Atit's mother gives a Tilhari to Saaya as token of love. They have fun but soon Saaya has to go to Kathmandu for the engagement with Sujan, an NRN. Saaya succeeds in breaking engagement but her parents are angry with her. Saaya, Atit and friends go for trip to Goa. Later, they return to Norway. Saaya's parents also come to visit Saaya in Norway. During their visit, they find out that Saaya is married after seeing Tilhari. Angry and furious, Saaya's parents leave for Nepal. Saaya's health also deteriorates after the incident. Atit looks after Saaya. Saaya wills to go to her father but Atil tries to stop her and not come in her father's sweet words. Saaya goes to Nepal whereas Atit's condition degrades. He does not eat food and is always thinking about Saaya. Soon, Saaya calls Atit to Nepal. Atit finds Saaya's father ill. Saaya's father talks with him and says that they can live together in Norway and he didn't wanted inter caste marriage of Saaya only due to pressure of society. Saaya and Atit are united and this was all about their love story full of obstacles which they overcame successfully. The novel ends with Saaya asking narrator that he must tell about his love story the next time they meet.  ",
+            "totalTime": "",
+            "author": "Subin Bhattarai",
+            "subject": [
+                "Fiction",
+                "Romance",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/saya.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/episode-10-saya-full-novel-by-subin-bhattrai-ujyalo-nischal-prem-2016-11-25_202009/Episode%201-Novel%20Saya%20by%20Subin%20Bhattrai%20-2016-09-16%20%28Nischal%20Prem%29.mp3",
+                    "title": "Saaya 1"
+                },
+                {
+                    "url": "https://archive.org/download/episode-10-saya-full-novel-by-subin-bhattrai-ujyalo-nischal-prem-2016-11-25_202009/Episode%202-Novel%20Saya%20by%20Subin%20Bhattrai%20-2016-9-23%20%28Nischal%20Prem%29.mp3",
+                    "title": "Saaya 2"
+                },
+                {
+                    "url": "https://archive.org/download/episode-10-saya-full-novel-by-subin-bhattrai-ujyalo-nischal-prem-2016-11-25_202009/Episode%203-Novel%20Saya%20by%20Subin%20Bhattrai%20-2016-09-30%20%28Nischal%20Prem%29.mp3",
+                    "title": "Saaya 3"
+                },
+                {
+                    "url": "https://archive.org/download/episode-10-saya-full-novel-by-subin-bhattrai-ujyalo-nischal-prem-2016-11-25_202009/Episode%204-Saya%20Full%20Novel%20by%20Subin%20Bhattrai_Ujyalo_%28Nischal%20Preml%29-2016-10-07.mp3",
+                    "title": "Saaya 4"
+                },
+                {
+                    "url": "https://archive.org/download/episode-10-saya-full-novel-by-subin-bhattrai-ujyalo-nischal-prem-2016-11-25_202009/Episode%205-Saya%20Full%20Novel%20by%20Subin%20Bhattrai_Ujyalo_%28Nischal%20Prem%29-2016-10-14.mp3",
+                    "title": "Saaya 5"
+                },
+                {
+                    "url": "https://archive.org/download/episode-10-saya-full-novel-by-subin-bhattrai-ujyalo-nischal-prem-2016-11-25_202009/Episode%206-Saya%20Full%20Novel%20by%20Subin%20Bhattrai_Ujyalo_%28Nischal%20Prem%29-2016-10-21.mp3",
+                    "title": "Saaya 6"
+                },
+                {
+                    "url": "https://archive.org/download/episode-10-saya-full-novel-by-subin-bhattrai-ujyalo-nischal-prem-2016-11-25_202009/Episode%207-Saya%20Full%20Novel%20by%20Subin%20Bhattrai_Ujyalo_%28Nischal%20Prem%29-2016-10-28.mp3",
+                    "title": "Saaya 7"
+                },
+                {
+                    "url": "https://archive.org/download/episode-10-saya-full-novel-by-subin-bhattrai-ujyalo-nischal-prem-2016-11-25_202009/Episode%208%20-Saya%20Full%20Novel%20by%20Subin%20Bhattrai_Ujyalo_%28Nischal%20Prem%29-2016-11-11.mp3",
+                    "title": "Saaya 8"
+                },
+                {
+                    "url": "https://archive.org/download/episode-10-saya-full-novel-by-subin-bhattrai-ujyalo-nischal-prem-2016-11-25_202009/Episode%2009-Saya%20Full%20Novel%20by%20Subin%20Bhattrai_Ujyalo_%28Nischal%20Prem%29-2016-11-18.mp3",
+                    "title": "Saaya 9"
+                },
+                {
+                    "url": "https://archive.org/download/episode-10-saya-full-novel-by-subin-bhattrai-ujyalo-nischal-prem-2016-11-25_202009/Episode%2010%20-Saya%20Full%20Novel%20by%20Subin%20Bhattrai_Ujyalo_%28Nischal%20Prem%29-2016-11-25.mp3",
+                    "title": "Saaya 10"
+                },
+                {
+                    "url": "https://archive.org/download/episode-10-saya-full-novel-by-subin-bhattrai-ujyalo-nischal-prem-2016-11-25_202009/Episode%2011-Saya%20Full%20Novel%20by%20Subin%20Bhattrai_Ujyalo_%28Nischal%20Prem%29-2016-12-02.mp3",
+                    "title": "Saaya 11"
+                }
+            ]
+        },
+        {
+            "title": "Jhola",
+            "description": "Jhola, Krishna Dharabasi (bestseller) | Krishna Dharabasi has written the heart touching famous Nepali Novel Jhola. Jhola can be considered as the story rather than the novel. Jhola is all about the eternal connection of love between mother and son. Krishna Dharabasi has defined the details of the Sati Pratha on the story Jhola.",
+            "totalTime": "",
+            "author": "Krishna Dharabasi",
+            "subject": [
+                "Fiction",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581868093i/21974963.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://ia800302.us.archive.org/28/items/Jhola/Jhola.mp3",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "title": "Antarman Ko Yatra",
+            "description": "Antarmanko Yatra (Nepali: \u0905\u0928\u094d\u0924\u0930\u094d\u092e\u0928\u0915\u094b \u092f\u093e\u0924\u094d\u0930\u093e) is an autobiography written by Jagadish Ghimire. This book won the Madan Puraskar in 2064 B.S. (2007). ",
+            "totalTime": "",
+            "author": "Jagadish Ghimire",
+            "subject": [
+                "Autobiography"
+            ],
+            "rating": 0,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Antarmanko_Yatra.jpg/220px-Antarmanko_Yatra.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "http://www.archive.org/download/Episode1-AntarManKoYatra-jagdishGhimireShruti-sambeg-2011-12-02/Episode1-AntarManKoYatra-jagdishGhimireShruti-sambeg-2011-12-02.mp3",
+                    "title": "Antarman Ko Yatra - 1"
+                },
+                {
+                    "url": "http://ia600807.us.archive.org/32/items/Episode2-AntarManKoYatrajagdishGhimire-2011-12-09UploadedByRam/Episode2-AntarManKoYatrajagdishGhimire-2011-12-09.mp3",
+                    "title": "Antarman Ko Yatra - 2"
+                },
+                {
+                    "url": "http://ia600801.us.archive.org/30/items/SS_Antarmankoyatra03/ShrutiSambeg2011_12_16.mp3",
+                    "title": "Antarman Ko Yatra - 3"
+                },
+                {
+                    "url": "http://www.archive.org/download/SS_Antarmankoyatra04/ShrutiSambeg2011_12_23.mp3",
+                    "title": "Antarman Ko Yatra - 4"
+                },
+                {
+                    "url": "http://www.archive.org/download/SS_Antarmankoyatra05/Shruti-Sambeg-2011-12-30_Antarman05.mp3",
+                    "title": "Antarman Ko Yatra - 5"
+                },
+                {
+                    "url": "http://ia600801.us.archive.org/34/items/SS_Antarmankoyatra06/Shruti-Sambeg-2012-01-06_Antarman06.mp3",
+                    "title": "Antarman Ko Yatra - 6"
+                },
+                {
+                    "url": "http://ia600804.us.archive.org/29/items/SS_Antarmankoyatra07/Shruti-Sambeg-2012-01-13.mp3",
+                    "title": "Antarman Ko Yatra - 7"
+                },
+                {
+                    "url": "http://ia600805.us.archive.org/7/items/SS_Antarmankoyatra08/Jagdish08_shrutiSambeg2012_01_20.mp3",
+                    "title": "Antarman Ko Yatra - 8"
+                },
+                {
+                    "url": "http://www.archive.org/download/SS_Antarmankoyatra09/Jagdish09_shrutiSambeg2012_01_27.mp3",
+                    "title": "Antarman Ko Yatra - 9"
+                },
+                {
+                    "url": "http://ia600807.us.archive.org/34/items/SS_Antarmankoyatra10/Jagdish10_shrutiSambeg.mp3",
+                    "title": "Antarman Ko Yatra - 10"
+                },
+                {
+                    "url": "https://archive.org/download/SS_Antarmankoyatra11/Jagdish11_shrutiSambeg.mp3",
+                    "title": "Antarman Ko Yatra - 11"
+                },
+                {
+                    "url": "http://ia600803.us.archive.org/22/items/SS_Antarmankoyatra12/Shruti-Sambeg-Jagdish-Ghimire-12th--2012-02-24.mp3",
+                    "title": "Antarman Ko Yatra - 12"
+                }
+            ]
+        },
+        {
+            "title": "Phool Ko Aankha Ma",
+            "description": "Ani Choying Drolma was born in Bouddha. Her childhood was full of suffering and she grew up with much pain and complexity. To get rid of the pain due to her father's death, she went into a monastery and later became a Buddhist nun. She learnt spiritualism, monasticism, and the meaning of loyalty, truth, patience and forgiveness. Today, she stands as a leading role of peace and harmony in the world.",
+            "totalTime": "",
+            "author": "Ani Choying Drolma",
+            "subject": [
+                "Biography",
+                "Autobiography"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/phoolkoaakha.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "http://ia600605.us.archive.org/22/items/Episode-1FulKoAnkhamaaniChhoyingDolma-www.chisapaninepal.blogspot.com/Episode-1FulKoAnkhamaaniChhoyingDolma-www.chisapaninepal.blogspot.com.mp3",
+                    "title": "Phool Ko Aankha ma - 1"
+                },
+                {
+                    "url": "http://ia600303.us.archive.org/10/items/Episode-2FulKoAnkhamaaniChhoyingDolma-www.chisapaninepal.blogspot.com/Episode-2FulKoAnkhamaaniChhoyingDolma-www.chisapaninepal.blogspot.com.mp3",
+                    "title": "Phool Ko Aankha ma - 2"
+                },
+                {
+                    "url": "http://ia600602.us.archive.org/34/items/Episode-3FulKoAnkhamaaniChhoyingDolma--2011_11_14-/Episode-3FulKoAnkhamaaniChhoyingDolma--2011_11_14-Www.chisapaninepal.blogspot.com.mp3",
+                    "title": "Phool Ko Aankha ma - 3"
+                },
+                {
+                    "url": "http://ia600707.us.archive.org/20/items/Episode-4FulKoAnkhamaaniChhoyingDolma-Www.chisapaninepal.blogspot.com/Episode-4FulKoAnkhamaaniChhoyingDolma-Www.chisapaninepal.blogspot.com.mp3",
+                    "title": "Phool Ko Aankha ma - 4"
+                },
+                {
+                    "url": "http://ia600303.us.archive.org/28/items/Episode-5FulKoAnkhamaaniChhoyingDolma-/Episode-5FulKoAnkhamaaniChhoyingDolma-2011_11_29-www.chisapaninepal.blogspot.com.mp3",
+                    "title": "Phool Ko Aankha ma - 5"
+                },
+                {
+                    "url": "http://ia600208.us.archive.org/20/items/Episode-6FulKoAnkhamaaniChhoyingDolma/Episode-6FulKoAnkhamaaniChhoyingDolma-2011_12_06-www.chisapaninepal.blogspot.com.mp3",
+                    "title": "Phool Ko Aankha ma - 6"
+                },
+                {
+                    "url": "http://ia601208.us.archive.org/5/items/Episode-7FulKoAnkhama/Episode-7FulKoAnkhamaShruti-sambeg-2011-12-13-www.chisapaninepal.blogspot.com.mp3",
+                    "title": "Phool Ko Aankha ma - 7"
+                },
+                {
+                    "url": "http://ia600800.us.archive.org/31/items/Episode-8FulKoAnkhamaaniChyoingDolma/Episode-8FulKoAnkhamaaniChyoingDolma-2011_12_20-www.chisapaninepal.blogspot.com.mp3",
+                    "title": "Phool Ko Aankha ma - 8"
+                },
+                {
+                    "url": "http://ia600607.us.archive.org/18/items/Episode-9FulKoAnkhamaanyChoyingDolma/Episode-9FulKoAnkhamaanyChoyingDolma-2011_12_27-22-www.chisapaninepal.blogspot.com.mp3",
+                    "title": "Phool Ko Aankha ma - 9"
+                },
+                {
+                    "url": "http://ia600707.us.archive.org/13/items/Episode-10-FulKoAnkhaMaaniChoyingDolma/Episode-10-FulKoAnkhaMaaniChoyingDolma2012-01-03-www.chisapaninepal.blogspot.com.mp3",
+                    "title": "Phool Ko Aankha ma - 10"
+                }
+            ]
+        },
+        {
+            "title": "Ojhel",
+            "description": "Ozel is a novel based on the story of contemporary themes. It tells the story of love and separation between a young man who came to the city from a village and a young woman who came to Nepal from Germany. Although a novel based on love, Ojhel depicts the problems of Haliya and Kamaiya in western Nepal from the depiction of social norms and conflict. The problem of suffering has become readable as this novel speaks. Although it is a love novel, it is connected to society.<br>The novel discusses the plight of a young man who enters the city from a village with a dream, depicts political anarchy, and the exploitation of women accused of witchcraft. There is also a depiction of the conflict-era events and their impact on Nepali society. As the event of Prithvinarayan Shah's unification is depicted, this work also tries to show the historical information easily and clearly. In this novel, depiction of nature, figurative presentation, simplicity of language, subject matter have come easily. This book has managed to be very close to life.",
+            "totalTime": "",
+            "author": "Jeevan Khadka",
+            "subject": [
+                "Fiction",
+                "Novel",
+                "Political"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/image_20241005_0841/image.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/JiwanKhadkaOhjel/Jiwan%20Khadka%20-%20Ohjel%20-%2001.mp3",
+                    "title": "  Ojhel part 1  "
+                },
+                {
+                    "url": "https://archive.org/download/JiwanKhadkaOhjel/Jiwan%20Khadka%20-%20Ohjel%20-%2002.mp3",
+                    "title": "  Ojhel part 2  "
+                },
+                {
+                    "url": "https://archive.org/download/JiwanKhadkaOhjel/Jiwan%20Khadka%20-%20Ohjel%20-%2003.mp3",
+                    "title": "  Ojhel part 3  "
+                },
+                {
+                    "url": "https://archive.org/download/JiwanKhadkaOhjel/Jiwan%20Khadka%20-%20Ohjel%20-%2004_%28final_part%29.mp3",
+                    "title": "  Ojhel part 4  "
+                }
+            ]
+        },
+        {
+            "title": "Junkiri Ko Sangeet",
+            "description": "N/A",
+            "totalTime": "",
+            "author": "Khagendra Sangraula",
+            "subject": [],
+            "rating": 0,
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521013920i/39269301.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/ha12n/JKS1.mp3",
+                    "title": "Junkiri ko Sangeet Part 1"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS2.mp3",
+                    "title": "Junkiri ko Sangeet Part 2"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS3.mp3",
+                    "title": "Junkiri ko Sangeet Part 3"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS4.mp3",
+                    "title": "Junkiri ko Sangeet Part 4"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS5.mp3",
+                    "title": "Junkiri ko Sangeet Part 5"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS6.mp3",
+                    "title": "Junkiri ko Sangeet Part 6"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS7.mp3",
+                    "title": "Junkiri ko Sangeet Part 7"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS8.mp3",
+                    "title": "Junkiri ko Sangeet Part 8"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS9.mp3",
+                    "title": "Junkiri ko Sangeet Part 9"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS10.mp3",
+                    "title": "Junkiri ko Sangeet Part 10"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS11.mp3",
+                    "title": "Junkiri ko Sangeet Part 11"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS12.mp3",
+                    "title": "Junkiri ko Sangeet Part 12"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS13.mp3",
+                    "title": "Junkiri ko Sangeet Part 13"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS14.mp3",
+                    "title": "Junkiri ko Sangeet Part 14"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS15.mp3",
+                    "title": "Junkiri ko Sangeet Part 15"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS16.mp3",
+                    "title": "Junkiri ko Sangeet Part 16"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS17.mp3",
+                    "title": "Junkiri ko Sangeet Part 17"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS18.mp3",
+                    "title": "Junkiri ko Sangeet Part 18"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS19.mp3",
+                    "title": "Junkiri ko Sangeet Part 19"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS20.mp3",
+                    "title": "Junkiri ko Sangeet Part 20"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS21.mp3",
+                    "title": "Junkiri ko Sangeet Part 21"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS22.mp3",
+                    "title": "Junkiri ko Sangeet Part 22"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS23.mp3",
+                    "title": "Junkiri ko Sangeet Part 23"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JKS24.mp3",
+                    "title": "Junkiri ko Sangeet Part 24"
+                }
+            ]
+        },
+        {
+            "title": "Subarnalata",
+            "description": "Subarnalata is a Nepali Novel written by Malika Keshari. Novel is based on the situation and struggle of Nepali girl who want to be more than average.<br>In book we can meet Lord Buddha and his wisdom. So that reader can take this book as a bridge to enter into the Buddhist ideology.Subarnalata Novel is written by Malika Keshari. Subarnalate Novel was publish on 2074 from Sangrila Books publication. In this Novel writer Malika Keshari focus on the female condition of present and past. Subarnalata is second novel of Malika keshari. Her first Novel was Punaruthan. This novel is mysterious novel.",
+            "totalTime": "",
+            "author": "Malika Keshari",
+            "subject": [
+                "Fiction",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/subarnalata.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/ha12n/SUBL1.mp3",
+                    "title": "Subarnalata Part 1"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SUBL2.mp3",
+                    "title": "Subarnalata Part 2"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SUBL3.mp3",
+                    "title": "Subarnalata Part 3"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SUBL4.mp3",
+                    "title": "Subarnalata Part 4"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SUBL5.mp3",
+                    "title": "Subarnalata Part 5"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SUBL6.mp3",
+                    "title": "Subarnalata Part 6"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SUBL7.mp3",
+                    "title": "Subarnalata Part 7"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SUBL8.mp3",
+                    "title": "Subarnalata Part 8"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SUBL9.mp3",
+                    "title": "Subarnalata Part 9"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SUBL10.mp3",
+                    "title": "Subarnalata Part 10"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SUBL11.mp3",
+                    "title": "Subarnalata Part 11"
+                }
+            ]
+        },
+        {
+            "title": "Sarsarti Sansar",
+            "description": "Sarsarti Sansar is a light-hearted book that encapsulates the author's individual experiences and feelings invoked by different places he travelled to. <br>Jiva Lamichhane, an activist and former president of the Non-Resident Nepali Association, is an engineer by education, a businessman by profession, a literary and social worker by dedication. His hobbies are reading, traveling and taking notes on the things he has experienced during his travels.<br>Born in Chitwan, he became an overseer from an engineering college in Pulchok. The scholarship went to the Soviet Union. He graduated from Moscow State University of Civil Engineering. That's when the Soviet Union collapsed",
+            "totalTime": "",
+            "author": "Jiba Lamichhane",
+            "subject": [
+                "Travelogue",
+                "Memoir"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/image_20241005_0841/Sarsarti_Sansar_by_Jiba_Lamichhane-thumbnail-280x405-70.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/ha12n/SASA1.mp3",
+                    "title": "Sarsarti Sansar Part 1"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SASA2.mp3",
+                    "title": "Sarsarti Sansar Part 2"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SASA3.mp3",
+                    "title": "Sarsarti Sansar Part 3"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SASA4.mp3",
+                    "title": "Sarsarti Sansar Part 4"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SASA5.mp3",
+                    "title": "Sarsarti Sansar Part 5"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SASA6.mp3",
+                    "title": "Sarsarti Sansar Part 6"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SASA7.mp3",
+                    "title": "Sarsarti Sansar Part 7"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SASA8.mp3",
+                    "title": "Sarsarti Sansar Part 8"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SASA9.mp3",
+                    "title": "Sarsarti Sansar Part 9"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/SASA10.mp3",
+                    "title": "Sarsarti Sansar Part 10"
+                }
+            ]
+        },
+        {
+            "title": "Jhareko Paat",
+            "description": "Jhareko Paat Nobel was first released on Kartik 2076. Jhareko Paat was published and distributed by Pairavi Book House.",
+            "totalTime": "",
+            "author": "Prem Prakash Malla",
+            "subject": [
+                "N/A"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/jhareko%20paat.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/ha12n/JHP1.mp3",
+                    "title": "Jhareko Paat Part 1"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JHP2.mp3",
+                    "title": "Jhareko Paat Part 2"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JHP3.mp3",
+                    "title": "Jhareko Paat Part 3"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JHP4.mp3",
+                    "title": "Jhareko Paat Part 4"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JHP5.mp3",
+                    "title": "Jhareko Paat Part 5"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/JHP6.mp3",
+                    "title": "Jhareko Paat Part 6"
+                }
+            ]
+        },
+        {
+            "title": "Faliyeko Saman",
+            "description": "Faliyeko Saman is written by Tarini Prasad Koirala. Faliyeko Saman is publshed by oriental publication. Tarini Prasad Koirala was story writer, politician, novelist. He wrote the stories and novel during 2017 BS to 2023 BS during 6 years jail life. His wrote novel Sarpadamsa, Faliyeko Saman, Rato Sweater, Agnibatika, Naini. Among them Sarpadamsa and Agnibatika are already included before in this app. <br>\u0915\u0941\u0938\u0941\u092e\u0932\u0947 \u0915\u0930\u0942\u0923\u093e\u0932\u0947 \u0930\u0942\u091d\u0947\u0915\u094b \u0938\u094d\u0935\u0930\u092e\u093e \u092d\u0928\u093f\u0928\u094d, \"\u0926\u093f\u0928\u0947\u0936 \u0964 \u092e \u0924\u093f\u092e\u0940\u0932\u093e\u0908 \u092a\u094d\u0930\u0947\u092e \u0917\u0930\u094d\u0926\u093f\u0928; \u0938\u093e\u0901\u091a\u094d\u091a\u0948 \u092d\u0928\u0947\u0915\u094b \u0964 \u092a\u094d\u0930\u0947\u092e \u0927\u0947\u0930\u0948 \u0915\u0941\u0930\u093e \u0939\u094b \u0915\u094d\u092f\u093e\u0930 \u0964 \u092e\u0932\u093e\u0908 \u0925\u093e\u0939\u093e \u091b\u0948\u0928, \u092a\u094d\u0930\u0947\u092e \u092d\u0928\u0947\u0915\u094b \u0915\u0938\u094d\u0924\u094b \u0939\u0941\u0928\u094d\u091b \u0964 \u092c\u093f\u0939\u093e\u092d\u0928\u094d\u0926\u093e \u092a\u0939\u093f\u0932\u0947 \u092a\u094d\u0930\u0947\u092e\u0915\u093e \u092c\u093e\u0930\u0947 \u0927\u0947\u0930\u0948 \u092e\u0940\u0920\u093e-\u092e\u0940\u0920\u093e \u0915\u0932\u094d\u092a\u0928\u093e \u0917\u0930\u0947\u0915\u0940 \u0925\u093f\u090f\u0901, \u0927\u0947\u0930\u0948 \u0930\u0938\u093f\u0932\u093e \u0915\u0941\u0930\u093e \u0916\u0947\u0932\u093e\u090f\u0915\u0940 \u0925\u093f\u090f\u0901 \u092e\u0928\u092e\u093e \u0964 \u0924\u0930 \u091c\u0938\u094d\u0924\u094b \u0926\u0941\u0932\u093e\u0939\u093e\u0915\u093e \u0939\u093e\u0924 \u092a\u0930\u0947\u0902, \u092e\u093e\u092f\u093e, \u092e\u092e\u0924\u093e, \u0938\u094d\u0928\u0947\u0939, \u092a\u094d\u0930\u0947\u092e \u0915\u0947\u0939\u0940 \u092a\u093e\u0909\u0928 \u0938\u0915\u093f\u0928\u0901 \u0964 \u092c\u0930\u0942 \u0906\u091c\u0938\u092e\u094d\u092e \u0932\u093e\u091e\u094d\u091b\u0928\u093e, \u0918\u0943\u0923\u093e \u0930 \u0926\u0941\u0930\u094d\u0926\u0942\u0930 \u092e\u093e\u0924\u094d\u0930\u0948 \u0938\u0939\u0901\u0926\u0948 \u0906\u090f\u0915\u0940 \u091b\u0941 \u0964\" \u0909\u0928\u0915\u094b \u0906\u0901\u0916\u093e \u0930\u0938\u093e\u0909\u0928 \u0906\u091f\u094d\u092f\u094b \u0964 \u092d\u0928\u093f\u0928\u094d, \"\u0924\u094d\u092f\u0938\u0948\u0932\u0947 \u092e\u0932\u093e\u0908 \u092a\u094d\u0930\u0947\u092e\u0915\u094b \u091c\u094d\u091e\u093e\u0928\u0948 \u0939\u0941\u0928 \u0938\u0915\u0947\u0928 \u0964 \u092e\u0948\u0932\u0947 \u0935\u093e\u0938\u0928\u093e\u0915\u094b \u0924\u0943\u092a\u094d\u0924\u093f \u092a\u0928\u093f \u092a\u093e\u0907\u0928\u0901 \u0964 \u0924\u094d\u092f\u0938\u0948\u0932\u0947 \u0924\u093f\u092e\u0940 \u0928\u091c\u093f\u0915 \u0906\u090f\u0915\u094b \u0964 \u0924\u093f\u092e\u0940\u0932\u093e\u0908 \u0905\u0938\u094d\u0924\u093f \u092a\u0939\u093f\u0932\u094b \u092a\u091f\u0915 \u0926\u0947\u0916\u094d\u0928\u093e\u0938\u093e\u0925 \u0924\u093f\u092e\u094d\u0930\u094b \u0906\u0901\u0916\u093e\u0932\u0947 \u092e\u0932\u093e\u0908 \u092f\u0938\u0930\u0940 \u0924\u093e\u0928\u094d\u092f\u094b \u0915\u093f \u0939\u0947\u0930\u0928, \u0905\u0939\u093f\u0932\u0947 \u0924\u093f\u092e\u0940\u0938\u0901\u0917 \u091f\u093e\u0901\u0938\u093f\u090f\u0930 \u0938\u0941\u0924\u0947\u0915\u0940 \u091b\u0941 \u0964 \u0915\u0938\u094d\u0924\u0940 \u0928\u0915\u091a\u094d\u091a\u0930\u0940 \u092e ! \u092e \u090f\u0915\u0926\u092e \u092a\u094d\u092f\u093e\u0938\u0940 \u091b\u0941 \u0926\u093f\u0928\u0947\u0936, \u090f\u0915\u0926\u092e \u092a\u094d\u092f\u093e\u0938\u0940 ! \u0924\u093f\u092e\u0940\u092c\u093e\u091f \u092e \u0924\u0943\u092a\u094d\u0924 \u0939\u0941\u0928 \u091a\u093e\u0939\u0928\u094d\u091b\u0941 \u0964 \u0927\u0940\u0924 \u092e\u093e\u0930\u093f\u0926\u0947\u090a, \u0939\u0948 \u0926\u093f\u0928\u0947\u0936 ?\"",
+            "totalTime": "",
+            "author": "Tarini Prasad Koirala",
+            "subject": [
+                "Novel",
+                "Romance"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/shruti-sambeg-faliyeko-saman-01-2020-08-25/50404785._SY475_.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/ha12n/FLS1.mp3",
+                    "title": "Faliyeko Saman Part 1"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS2.mp3",
+                    "title": "Faliyeko Saman Part 2"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS3.mp3",
+                    "title": "Faliyeko Saman Part 3"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS4.mp3",
+                    "title": "Faliyeko Saman Part 4"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS5.mp3",
+                    "title": "Faliyeko Saman Part 5"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS6.mp3",
+                    "title": "Faliyeko Saman Part 6"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS7.mp3",
+                    "title": "Faliyeko Saman Part 7"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS8.mp3",
+                    "title": "Faliyeko Saman Part 8"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS9.mp3",
+                    "title": "Faliyeko Saman Part 9"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS10.mp3",
+                    "title": "Faliyeko Saman Part 10"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS11.mp3",
+                    "title": "Faliyeko Saman Part 11"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS12.mp3",
+                    "title": "Faliyeko Saman Part 12"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS13.mp3",
+                    "title": "Faliyeko Saman Part 13"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS14.mp3",
+                    "title": "Faliyeko Saman Part 14"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS15.mp3",
+                    "title": "Faliyeko Saman Part 15"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS16.mp3",
+                    "title": "Faliyeko Saman Part 16"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS17.mp3",
+                    "title": "Faliyeko Saman Part 17"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/FLS18.mp3",
+                    "title": "Faliyeko Saman Part 18"
+                }
+            ]
+        },
+        {
+            "title": "Swet Bhairabi",
+            "description": "This is the collection of famous four stories by B.P. Koirala. Includes the stories of Sannani, Writer Baje, Ek Raat and Shwet Bhairavi.<br>\u0905\u092d\u093f\u0936\u093e\u092a\u0915\u093e \u0932\u093e\u0917\u093f \u092a\u0928\u093f \u092e \u0928\u0948 \u0915\u093f\u0928 \u0930\u094b\u091c\u093f\u090f\u0901? \u092e\u0947\u0930\u0940 \u091c\u0947\u0920\u0940 \u0926\u093f\u0926\u093f \u091a\u093e\u0930 \u092a\u0941\u0930\u0941\u0937\u0915\u0940 \u090f\u0915\u0948\u091a\u094b\u091f\u0940 \u092a\u0924\u094d\u0928\u0940 \u092d\u090f\u0930 \u092c\u0938\u093f\u0928\u094d\u0964 \u092e\u0947\u0930\u0940 \u092e\u093e\u0939\u093f\u0932\u0940 \u0926\u093f\u0926\u0940\u0915\u0948 \u0935\u0943\u0924\u093f \u092a\u0928\u093f \u0924 \u0930\u0941\u092a\u091c\u0940\u0935\u0940 \u0935\u0943\u0924\u093f \u0925\u093f\u092f\u094b\u0964 \u092e\u0947\u0930\u0940 \u0938\u093e\u0939\u093f\u0901\u0932\u0940 \u0926\u093f\u0926\u093f \u0930\u093e\u0928\u0940 \u092a\u0926\u092e\u093e \u0906\u0938\u0940\u0928 \u0939\u0941\u0928 \u0906\u092b\u094d\u0928\u094b \u0930\u0941\u092a \u0930 \u0938\u0930\u093f\u0930\u0915\u094b \u0920\u093e\u0909\u0901\u0920\u093e\u0909\u0901\u092e\u093e \u092a\u094d\u0930\u092f\u094b\u0917 \u0917\u0930\u094d\u0926\u0948 \u0917\u0907\u0928\u094d\u0964 \u0915\u093f\u0928 \u0935\u093f\u0927\u093e\u0924\u093e\u0932\u0947 \u0938\u092c\u092d\u0928\u094d\u0926\u093e \u0938\u093e\u0928\u0940 \u092c\u0948\u0928\u0940\u0932\u093e\u0908 \u092e\u093e\u0924\u094d\u0930 \u0905\u092d\u093f\u0936\u093e\u092a\u0915\u094b \u091b\u093e\u092a \u0932\u0917\u093e\u090f\u0930 \u092e\u093e\u0928\u0935 \u0938\u092e\u093e\u091c\u092c\u093e\u091f \u092c\u093e\u0939\u093f\u0930 \u0928\u093f\u0937\u094d\u0915\u093e\u0938\u093f\u0924 \u0917\u0930\u094d\u092f\u094b\u0964 ",
+            "totalTime": "",
+            "author": "Bishweshwar Prasad Koirala",
+            "subject": [
+                "Fiction",
+                "Short Stories"
+            ],
+            "rating": 0,
+            "image": "https://ia903208.us.archive.org/14/items/1-shwet-bhairabi-ek-raat-by-b.-p.-koirala/18166225._SY475_.jpg?cnt=0",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/ha12n/SWE%20WRITER%20BAJE.mp3",
+                    "title": "Writer Baje"
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/SWB1.mp3",
+                    "title": " Swet Bhairabi Part 1 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/SWB2.mp3",
+                    "title": " Swet Bhairabi Part 2 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/SWB3.mp3",
+                    "title": " Swet Bhairabi Part 3 "
+                }
+            ]
+        },
+        {
+            "title": "Paheli",
+            "description": "Paheli is written by Bishnu S Rai. These writings are based on real story. This type of writing is an experiment in Nepali Literature. But writer claims it as an novel. ",
+            "totalTime": "",
+            "author": "Vishnu S Rai",
+            "subject": [
+                "Poetry",
+                "Drama",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/paheli.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/lmps_20200530/PHL1.mp3",
+                    "title": " Paheli Part 1 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/PHL2.mp3",
+                    "title": " Paheli Part 2 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/PHL3.mp3",
+                    "title": " Paheli Part 3 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/PHL4.mp3",
+                    "title": " Paheli Part 4 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/PHL5.mp3",
+                    "title": " Paheli Part 5 "
+                }
+            ]
+        },
+        {
+            "title": "Maiya",
+            "description": "This book discusses the various events and happening in society. Stories topics range from murder, stories related to education, woman harassment and sensations with horrific complexity, political, social disorder and some psychology.The story collection consists of Malai Bachna Deu, Sankhama Mitrata. It is published through Yureka Publication. ",
+            "totalTime": "",
+            "author": "Nirdosh Jiwan",
+            "subject": [
+                "Fiction"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/maiya.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/lmps_20200530/Maiy1.mp3",
+                    "title": " Maiya Part 1 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/Maiy2.mp3",
+                    "title": " Maiya Part 2 "
+                }
+            ]
+        },
+        {
+            "title": "Laltin Ko Ujyaloma",
+            "description": "This book is all about a woman who struggled to accomplish her study, continue her career in politics while taking care of her 28-year-old daughter with disability.",
+            "totalTime": "",
+            "author": "Saraswoti Gyawali",
+            "subject": [
+                "Biography",
+                "Memoir"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/laltinkoujyaloma.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/lmps_20200530/LUM1.mp3",
+                    "title": " Laltin ko Ujyaloma Part 1 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/LUM2.mp3",
+                    "title": " Laltin ko Ujyaloma Part 2 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/LUM3.mp3",
+                    "title": " Laltin ko Ujyaloma Part 3 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/LUM4.mp3",
+                    "title": " Laltin ko Ujyaloma Part 4 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/LUM5.mp3",
+                    "title": " Laltin ko Ujyaloma Part 5 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/LUM6.mp3",
+                    "title": " Laltin ko Ujyaloma Part 6 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/LUM7.mp3",
+                    "title": " Laltin ko Ujyaloma Part 7 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/LUM8.mp3",
+                    "title": " Laltin ko Ujyaloma Part 8 "
+                },
+                {
+                    "url": "https://archive.org/download/lmps_20200530/LUM9.mp3",
+                    "title": " Laltin ko Ujyaloma Part 9 "
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/LUM10.mp3",
+                    "title": " Laltin ko Ujyaloma Part 10 "
+                }
+            ]
+        },
+        {
+            "title": "Yunika",
+            "description": "Dedicated to those who love is a crazy lover's book - 'Unica' novel. This is the first narrative work of Ghanshyam Pathik, a poet and ghazal writer who has made a name for himself in the field of poetry and ghazal. Two collections of ghazals, 'Shahar Timro Bhaye' and 'Bhool Zindagi Ko' and a collection of poems 'Pahelo Phool O Swapna' are the works published before Pathik's novel. Pathik Damak, who is also involved in teaching along with literature, is also a presenter of Pathibhara FM and Himashikhar Television in Jhapa. <br>The cover of the book is decorated with a picture of a yellow bird flying on a branch of a thorn - by the Fine Art Center. The entire novel, which is divided into 32 parts, has only 258 pages and the last two pages express gratitude on behalf of the author.<br>Inside the last cover is a brief introduction with a picture of the author. Entering the novel, there is another novel within the novel. The author has become a reader and is reading Unika's novel, which has been announced to be awarded the Madan Award. Some works are in the news for a few days after they are published, and some are sold out and sold out. When a work is awarded a prestigious prize, it gains market share and readership. At the beginning of this story I present the character as a reader.<br>As the character I announced the Madan Award for Unika's novel, he decides to read it because the work is popular and starts reading it. In the middle of the story, the love story of Unika and Samik is presented. The beginning of the story is composed in the Purvadipti method and after twenty-eight episodes, the story is re-arranged and moved forward. Seen in this way, it seems that this novel has been composed in a mixed format. The original story is in the middle. Dedicated to those who love, it is easy to understand that this work is based on a love story. In the sixties, when the development of social media was not as fast as it is now and the exchange of messages and phone conversations between boyfriends and girlfriends through mobile phones, the situation of that time is also reflected in the story.<br>The author has advanced the ups and downs of love in a series of ways. In the middle of the story, he has also inserted his ghazal personality according to the context - by mentioning the lions of ghazal. The author presents the moment of reunion and separation in a way that makes the reader happy and sad. In the last part of the story, I read that the character's own love story is a popular novel and its real author is a friend of Samik, but the story of Unika ends with the fact that others have taken advantage of it. In the novel, Unika is the main female character and Samik is the main male character. Their love is connecting and breaking up three times. After falling in love for the third time, Samik left the capital and reached Jhapa and started living a well-organized life in Jhapa. Between Unika and Samik, sometimes the landlord, sometimes the younger (Unika's sister) seems to be present. After going to Jhapa, the love of Unika and Samik grows once again. They get ready to get married and when the father does not approve of the marriage, the love breaks down again. In this way, both the characters seem to be accepting the ups and downs of reunion and separation with the situation. In the end, Samik arrives in Kathmandu to fight the last battle for his love. After many attempts to talk to Unika but failed, the story ends with Unika's flower being with another boy that Unika likes.<br>In the last part of the story, I read that the character's own love story is a famous novel and its real author is a friend of Samik's, but the story of Unika ends with the fact that others have taken advantage of it. Originally written from a first-person perspective, the language of the novel is very simple and communicative. Although the work is called 'Buckpatra of a mad lover', it is not only Samik's one-sided presentation here, a lot of things have been said about him through Unika, but also an attempt has been made to present Unika's thoughts a little through the entrance. But what did she really think on behalf of Unica in this love story? Why play such a game? As it is incomplete, it is limited to one-sided expression. Here it seems that the author has not been able to present both the characters with justice. The surroundings of this story are Maiti Devi, Ghattekulo, Kalimati, Kuleshwor, Swayambhu, Balaju, Godavari, etc. of Kathmandu, while Birtamod and Charali of Jhapa are also included. It seems that the lifestyle of the youths living and studying in Kathmandu is also tried to be included in this story. Although there is no explanation of the wholeness of life, this work has got the full form of the novel. ",
+            "totalTime": "",
+            "author": "Ghanashyam Pathik",
+            "subject": [
+                "Fiction",
+                "Romance",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/yunika.JPG",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/unk_20200529/U1.mp3",
+                    "title": "  Yunika part 1  "
+                },
+                {
+                    "url": "https://archive.org/download/unk_20200529/U2.mp3",
+                    "title": "  Yunika part 2  "
+                },
+                {
+                    "url": "https://archive.org/download/unk_20200529/U3.mp3",
+                    "title": "  Yunika part 3  "
+                },
+                {
+                    "url": "https://archive.org/download/unk_20200529/U4.mp3",
+                    "title": "  Yunika part 4  "
+                },
+                {
+                    "url": "https://archive.org/download/unk_20200529/U5.mp3",
+                    "title": "  Yunika part 5  "
+                },
+                {
+                    "url": "https://archive.org/download/unk_20200529/U6.mp3",
+                    "title": "  Yunika part 6  "
+                },
+                {
+                    "url": "https://archive.org/download/unk_20200529/U7.mp3",
+                    "title": "  Yunika part 7  "
+                },
+                {
+                    "url": "https://archive.org/download/unk_20200529/U8.mp3",
+                    "title": "  Yunika part 8  "
+                },
+                {
+                    "url": "https://archive.org/download/unk_20200529/U9.mp3",
+                    "title": "  Yunika part 9  "
+                }
+            ]
+        },
+        {
+            "title": "Hajur Aama Ka Katha",
+            "description": "Hajur Aama ka Katha is written by Amrita Lamsal. This book is collection of story from Grandmothers.<br>This book contains the story about many women who become grand mother. Hajur Aama Ka Katha include the story of 23 grandmothers and three stories of grand child are also included in this book.<br>\u092f\u094b \u092a\u0941\u0938\u094d\u0924\u0915 \u0939\u091c\u0941\u0930\u0906\u092e\u093e \u092a\u0941\u0938\u094d\u0924\u093e\u0915\u093e \u092e\u0939\u093f\u0932\u093e\u0939\u0930\u0941\u0932\u0947 \u092d\u094b\u0917\u0947\u0915\u093e \u091c\u0940\u0935\u0928 \u0905\u0928\u0941\u092d\u0935\u0915\u093e \u0915\u0925\u093e \u0939\u094b \u0964 \u0938\u0902\u0919\u094d\u0917\u094d\u0930\u0939\u092e\u093e \u0938\u092e\u0947\u091f\u093f\u090f\u0915\u093e \u0939\u091c\u0941\u0930\u0906\u092e\u093e\u0939\u0930\u0941 \u0905\u0938\u0940 \u0935\u0930\u094d\u0937 \u092e\u093e\u0925\u0940\u0915\u093e \u091b\u0928\u094d \u0964 \u0909\u0928\u0940\u0939\u0930\u0941\u0915\u094b \u0935\u093f\u0935\u093f\u0927 \u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u0930 \u0938\u093e\u0901\u0938\u094d\u0915\u0943\u0924\u093f\u0915 \u092a\u0930\u093f\u0935\u0947\u0936\u0915\u093e \u0915\u0925\u093e\u092e\u093e \u0935\u093f\u0917\u0924\u0915\u094b \u0938\u092e\u092f, \u0938\u092e\u093e\u091c \u0930 \u0907\u0924\u093f\u0939\u093e\u0938\u0939\u0930\u0941 \u091c\u093f\u0935\u0928\u094d\u0924 \u092d\u090f\u0915\u093e \u091b\u0928\u094d \u0964 \u0939\u091c\u0941\u0930\u0906\u092e\u093e\u0939\u0930\u0941\u0915\u093e \u0915\u0925\u093e\u092e\u093e \u0938\u092e\u093e\u091c\u0932\u0947 \u092c\u093f\u0930\u094d\u0938\u0947\u0915\u093e \u0935\u093e \u092e\u0939\u0924\u094d\u0935\u0939\u093f\u0928 \u0920\u093e\u0928\u0947\u0915\u093e \u090f\u0924\u093f\u0939\u093e\u0938\u093f\u0915 \u092a\u094d\u0930\u0938\u0902\u0919\u094d\u0917\u0915 \u092a\u093e\u091f\u093e\u0939\u0930\u0941 \u0938\u092e\u0947\u0924 \u0926\u0947\u0916\u093f\u0928\u094d\u091b \u0964<br> \u0928\u0947\u092a\u093e\u0932\u092e\u093e \u0909\u0916\u093e\u0928 \u091b, \"\u0906\u0917\u094b \u0924\u093e\u092a\u094d\u0928\u0941 \u092e\u0941\u0922\u093e\u0915\u094b, \u0915\u0941\u0930\u093e \u0938\u0941\u0928\u094d\u0928\u0941 \u092c\u0942\u0922\u093e\u0915\u094b \u0964\" \u092f\u094b \u0909\u0916\u093e\u0928\u0905\u0928\u0941\u0938\u093e\u0930 \u0915\u0941\u0930\u093e \u092a\u0941\u0930\u0941\u0937\u0939\u0930\u0942\u0915\u0948 \u0938\u0941\u0928\u094d\u0928\u0941 \u092a\u0930\u094d\u0926\u091b \u0964 \u0939\u093e\u092e\u094d\u0930\u094b \u0938\u092e\u093e\u091c\u092e\u093e \u092a\u0941\u0930\u0941\u0937\u0915\u093e \u092c\u094b\u0932\u0940, \u0905\u0928\u0941\u092d\u0935, \u091c\u094d\u091e\u093e\u0928\u0917\u0941\u0928\u0915\u093e \u0915\u0941\u0930\u093e\u0932\u0947 \u0935\u0948\u0927\u093e\u0928\u093f\u0915\u0924\u093e \u092a\u093e\u0909\u0901\u091b ! '\u092e\u0939\u093f\u0932\u093e\u0939\u0930\u0942\u0932\u0947 \u092a\u0928\u093f \u091c\u093e\u0928\u0947\u0915\u093e \u0939\u0941\u0928\u094d\u091b\u0928 \u0930 \u092e\u0939\u093f\u0932\u093e\u0938\u093f\u0924 \u092d\u090f\u0915\u093e \u091c\u094d\u091e\u093e\u0928 \u0930 \u0905\u0928\u0941\u092d\u0935 \u092a\u0928\u093f \u092e\u0939\u0924\u094d\u0924\u094d\u0935\u092a\u0942\u0930\u094d\u0923 \u0939\u0941\u0928\u094d\u091b\u0928\u094d' \u092d\u0928\u094d\u0928\u0947 \u0915\u0941\u0930\u093e\u092e\u093e \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0917\u0930\u093f\u0902\u0926\u0948\u0928 \u0964 \u0924\u094d\u092f\u0938\u0948\u0932\u0947 \u0939\u094b\u0932\u093e \u092e\u0939\u093f\u0932\u093e\u0915\u093e \u092d\u0928\u093e\u0907\u0939\u0930\u0942\u0915\u094b \u0909\u0926\u094d\u0927\u0930\u0923 \u0926\u0941\u0930\u094d\u0932\u092d \u091b \u0964<br>\u090f\u0915\u093e\u0924\u093f\u0930 \u0928\u0947\u092a\u093e\u0932\u0940 \u0928\u093e\u0930\u0940\u0939\u0930\u0942\u0932\u0947 '\u092a\u0922\u0947 \u092c\u094b\u0915\u094d\u0938\u0940 \u0939\u0941\u0928\u094d\u091b\u0928\u094d', '\u092a\u0922\u0947 \u092a\u094b\u0907\u0932 \u091c\u093e\u0928\u094d\u091b\u0928\u094d' \u092d\u0928\u094d\u0928\u0947 \u0915\u0941\u0938\u0902\u0938\u094d\u0915\u093e\u0930\u092e\u093e \u0939\u0941\u0930\u094d\u0915\u0928\u0941 \u092a\u0930\u094d\u092f\u094b, \u0905\u0930\u094d\u0915\u094b\u0924\u093f\u0930 \u0935\u093f\u0915\u0938\u093f\u0924 \u0926\u0947\u0936\u0915\u093e \u0928\u093e\u0930\u0940\u0939\u0930\u0942 \u0906\u092b\u094d\u0928\u094b \u0939\u0915, \u0939\u093f\u0924 \u0930 \u0905\u0938\u094d\u0924\u093f\u0924\u094d\u0935\u0915\u094b \u0932\u0921\u093e\u0908\u0902\u092e\u093e \u0905\u0917\u094d\u0930\u0917\u093e\u092e\u0940 \u092c\u0928\u0947 \u0964\u0964 \u092f\u094b \u092a\u0941\u0938\u094d\u0924\u0915\u0915\u093e \u0927\u0947\u0930\u0948 \u092a\u093e\u0924\u094d\u0930\u0939\u0930\u0942\u0915\u094b \u0915\u0925\u093e \u092a\u0922\u094d\u0926\u093e \u0925\u093e\u0939\u093e \u0939\u0941\u0928\u094d\u091b, \u0909\u092e\u0947\u0930\u0915\u094b \u0906\u0920 \u0926\u0936\u0915 \u0915\u091f\u093f\u0938\u0915\u094d\u0926\u093e \u092a\u0928\u093f \u0936\u093f\u0915\u094d\u0937\u093e\u0915\u094b \u0924\u093f\u0930\u094d\u0938\u0928\u093e \u0915\u0938\u0930\u0940 \u0909\u0928\u0940\u0939\u0930\u0942\u0915\u094b \u092e\u0928\u092e\u093e \u0906\u0932\u094b \u0918\u093e\u0909 \u092c\u0928\u0947\u0930 \u0930\u0939\u0947\u0915\u094b \u091b \u0964 \u0939\u093e\u092e\u094d\u0930\u093e \u0927\u0947\u0930\u0948 \u0939\u091c\u0941\u0930\u0906\u092e\u093e\u0939\u0930\u0942\u0932\u0947 \u0905\u0915\u094d\u0937\u0930 \u0928\u091a\u093f\u0928\u0947\u0915\u093e \u0915\u093e\u0930\u0923 \u0938\u0902\u0938\u093e\u0930 \u0926\u0947\u0916\u094d\u0928 \u092a\u093e\u090f\u0928\u0928\u094d \u0930 \u0906\u092b\u0942\u0932\u0947 \u091a\u093e\u0939\u0947\u0905\u0928\u0941\u0938\u093e\u0930\u0915\u094b \u091c\u0940\u0935\u0928 \u091c\u093f\u0909\u0928 \u092a\u093e\u090f\u0928\u0928\u094d \u0964",
+            "totalTime": "",
+            "author": "Amrita Lamsal",
+            "subject": [
+                "Fiction",
+                "Short Stories"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/setodharti/hajuraamako%20katha.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/hak_20200529/HAK1.mp3",
+                    "title": "  Hajur Aama Ka Katha part 1  "
+                },
+                {
+                    "url": "https://archive.org/download/hak_20200529/HAK2.mp3",
+                    "title": "  Hajur Aama Ka Katha part 2  "
+                },
+                {
+                    "url": "https://archive.org/download/hak_20200529/HAK3.mp3",
+                    "title": "  Hajur Aama Ka Katha part 3  "
+                },
+                {
+                    "url": "https://archive.org/download/hak_20200529/Hak4.mp3",
+                    "title": "  Hajur Aama Ka Katha part 4  "
+                },
+                {
+                    "url": "https://archive.org/download/hak_20200529/HAK5.mp3",
+                    "title": "  Hajur Aama Ka Katha part 5  "
+                },
+                {
+                    "url": "https://archive.org/download/hak_20200529/HAK6.mp3",
+                    "title": "  Hajur Aama Ka Katha part 6  "
+                }
+            ]
+        },
+        {
+            "title": "Meera",
+            "description": "Deepak Sinjali's first Nepali novel 'Meera' (Mira) has been released in Pokhara. Narrator Bhuvan Hari Sigdel unveiled the novel at a program organized by Pokhareli Youth Cultural Family. Sigdel said that the path of philosophy has been strengthened in Mira.<br>Listen Nepali Novel Meera from crystal clear voice of Achyut Ghimire from Radio Program Shruti Sambeg from Unn Ujyaalo 90 network.Sigdel said that even though the love between the brothers and sisters seemed to be complicated, there was no bond between them. He also argued that the debate should not be dragged out.<br>Novelist Deepak Sinjali had said that he had written to present social justice system, love and life saving. The novelist Sinjali said that he was of the opinion that social structures such as bone marrow relations should be resolved by law or accepted.<br>Publisher Shikha Books' Pushparaj Poudel also extended best wishes at the program chaired by family chairman Deepak Samip. The program was conducted by Secretary Arjun Adhikari. ",
+            "totalTime": "",
+            "author": "Deepak Sinjali",
+            "subject": [
+                "Fiction",
+                "Romance",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/mira_20241003/mira.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/me_ra/ME1.mp3",
+                    "title": "  Meera part 1  "
+                },
+                {
+                    "url": "https://archive.org/download/me_ra/ME2.mp3",
+                    "title": "  Meera part 2  "
+                },
+                {
+                    "url": "https://archive.org/download/me_ra/ME3.mp3",
+                    "title": "  Meera part 3  "
+                },
+                {
+                    "url": "https://archive.org/download/me_ra/ME4.mp3",
+                    "title": "  Meera part 4  "
+                },
+                {
+                    "url": "https://archive.org/download/me_ra/ME5.mp3",
+                    "title": "  Meera part 5  "
+                },
+                {
+                    "url": "https://archive.org/download/me_ra/ME6.mp3",
+                    "title": "  Meera part 6  "
+                },
+                {
+                    "url": "https://archive.org/download/me_ra/ME7.mp3",
+                    "title": "  Meera part 7  "
+                },
+                {
+                    "url": "https://archive.org/download/me_ra/ME8.mp3",
+                    "title": "  Meera part 8  "
+                },
+                {
+                    "url": "https://archive.org/download/me_ra/ME9.mp3",
+                    "title": "  Meera part 9  "
+                },
+                {
+                    "url": "https://archive.org/download/me_ra/ME10.mp3",
+                    "title": "  Meera part 10  "
+                }
+            ]
+        },
+        {
+            "title": "Tamasuk",
+            "description": "Tamasuk, the story collection is written by Padam Vishokarma. Tamasuk was first published in baisakh 2076. The introductory part was written by Maya Thakuri, Nilam Niharika and Gyanu Adhikari. Writer Padam Vishokarma was native of Lamjung, Dhamilekuwa and presently resident of colorado. Writer was student of Tribhuvan University and he studied Major Nepali and Sociology and Anthropology. His Poem collection sabdasuman has been published before. Tamasuk contains many story among them mithai ma bhuleko jindagi are the presented here. Listen Nepali Story collection Tamasuk with Achyut Ghimire from radio program Shruti Sambeg.",
+            "totalTime": "",
+            "author": "Padam Vishwokarma",
+            "subject": [
+                "Fiction",
+                "Short Stories"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/tamasuk_blurred/tamasuk_blurred.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/ha12n/TAM1.mp3",
+                    "title": "Tamasuk Part 1"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/TAM2.mp3",
+                    "title": "Tamasuk Part 2"
+                },
+                {
+                    "url": "https://archive.org/download/ha12n/TAM3.mp3",
+                    "title": "Tamasuk Part 3"
+                }
+            ]
+        },
+        {
+            "title": "Tribhuvan Ki Erika",
+            "description": "When Erika read the story to the King, he cried out, \u201cBut that is I, Erika! And that is you!\u201d The King asked if he might keep the story and Erika said, \u201cIt was written for you, but I promise you, one day the whole world will know.\u201dThe king is King Tribhuvan. Erika is Erika Leuchtag, a German physiotherapist. The story is the book With a King in the Clouds which came out in 1958, and a later edition titled Erika and the King published by Coward-McCann Inc.<br>The book is an intimate history of King Tribhuvan during Nepal\u2019s political transition, his queens Kanti and Ishwari and the princesses Nalini, Vijaya and Bharati, who were not allowed to leave the Narayanhiti Palace by Nepal\u2019s Rana rulers.<br>The 270-page memoir begins on Christmas Eve in 1948 when Erika receives a letter from a European doctor, asking if she would be prepared to be a masseur for the Senior Queen of Nepal, who was then staying in the household of the royal family of Patiala in India. <br>Despite her family and friends advising her against venturing out to what was then a forbidden Himalayan kingdom, Erika entered Nepal in Feburary 1949 and walked up across Chandragiri pass to Kathmandu with her helper Gorkhi Ram and her spaniel dog, Peepchen.<p>Erika did not have a clue about the Shah-Rana dynamics of Nepal\u2019s two royal families until she sensed something was \u2018off\u2019 when she visited Singha Darbar \u2013 \u2018a prototype of the Palace of Versailles\u2019 -- to meet the last Rana Prime Minister Mohan Shumsher and the Director-General of Foreign Affairs, Bijaya Shumsher.<p>The British had left India, and an Anglophile Rana dynasty\u2019s days were numbered. There were new rulers in Delhi, and many members of Nepal\u2019s royal families and of India\u2019s princely states were married to each other. Palace intrigue, royal rivalries, and geopolitics were churning, and Erika changed from what the Ranas saw as a ditzy European woman to an insider playing an integral part in helping Tribhuvan\u2019s escape to India and the eventual end of Rana rule.<p>Her daily visits to the \u2018Naran Hity Durbar\u2019 was ostensibly to serve Senior Queen Kanti Rajya Lakshmi, but she ended up befriending the entire family, particularly King Tribhuvan. She was not just a physiotherapist for them, but a teacher, a Western dance instructor and a German language tutor.<br>She nicknamed the two queens Kanti and Ishwari \u2018Birdy\u2019 and \u2018Dreamy\u2019 for their beauty and personalities, but one gets hints of a growing intimacy with Tribhuvan. Erika Leuchtag herself left Germany before the war because of the rise of Adolf Hitler, and she makes no secret of the fact that the Ranas reminded her of the Nazis, and the Shahs were therefore allies.<br>Historian Dinesh Raj Panta remembers reading a smuggled copy of the first edition of Leuchtag\u2019s book in secrecy because it was banned, ironically, after the Shahs came to power. As a historian, Panta was intrigued by the German\u2019s relationship with Tribhuvan, his escape to the Indian Embassy in Kathmandu, departure to Delhi, and the events that followed.<br>\u201cWas she in love with Tribhuvan? Or was it just loyal devotion towards the king? Maybe the book was banned because people might think that the king\u2019s father had a romantic alliance with a European woman and that would taint the history of the restoration of the Shah dynasty,\u201d Panta speculates.<br>Rajni Chand, the granddaughter of King Tribhuvan and daughter of Princess Nalini, was brought up in Happy Cottage inside Narayanhiti since she was two by both her grandmothers \u2013Queens Kanti and Ishwari. Now 64 and living in Chhauni, she remembers her grannies talk about Erika and how everything changed after she arrived in Kathmandu.<br>It was not just Erika who was devoted to the family. Chand remembers being told the royal family was also extremely fond of her. They even named the room when she taught them to waltz the Erika Dance Hall in her honour. As a child, Chand remembers sneaking into the hall every chance she got to admire the colourful walls, the decoration and cute animal toys.<br>\u201cMy grandparents, mother and aunts were prisoners in the palace, and Erika was like a ray of sunshine in their lives, someone who they never imagined would help them recover from their miseries, and even in that short time, Erika managed to leave long-lasting memories for each one of them,\u201d Chand told us in an interview last week. <br>Unlike many history books about Nepal\u2019s longest reigning king, Erika gives us an insider\u2019s personal perspective on the man, describing vividly his melancholy and frustration at being a mere pawn at the hands of five Rana prime ministers: Chandra Shumsher, Bhim Shumsher, Juddha Shumsher, Padma Shumsher and Mohan Shumsher.<br>Perhaps it is because of Erika\u2019s influence that Tribhuvan confides that he wished to become a constitutional monarch like King George V of England. Which happened briefly during the transition in the 1950s, until his son King Mahendra took back absolute powers in 1961.<br>King Tribhuvan worked alongside Dharma Bhakta Mathema and other Nepali democracy activists politicians, but the book\u2019s more revealing parts are about the softer side of the man who loved and respected his wives and daughters, and who reciprocated the love.  <br>The King and his family lived in Happy Cottage, which was later known as Tribhuvan Sadan inside Narayanhiti Palace. As a royal prisoner, the king\u2019s life was like that of a bird in a gilded cage. He was intrigued by Europe, and often pored over mail-catalogues for clothes, furniture and cars to order for the palace. The book describes Tribhuvan as a man of sophistication who yearned to visit the outside world.<br>Tribhuvan was childlike, and according to Erika he never liked alcohol \u2013 mainly because he did not want to be a puppet king spoilt by wine and women like his father and grandfather. He was fond of cigars, dressed well, and once smuggled two trunks full of books from India through Boris Lissanevitch, the White Russian \u00e9migr\u00e9 who managed Royal Hotel.<br>The book is a time capsule and through Erika\u2019s keen sense of observation, we get descriptions of Narayanhiti\u2019s majestic gardens and detailed portrayals of people she came across. The book is necessarily dated and in places turgid when she is describing the sights and sounds of Kathmandu, but one has to understand that this was one of the first books introducing Nepal to the outside world.<br>There are hints that Erika was more than a royal physiotherapist, she mentions walking hand-in-hand with the Tribhuvan around the palace garden. It is clear that she and Tribhuvan were working together to overthrow the Ranas, and in this she became the go-between to coordinate logistics with Indian ambassadors Surjit Singh Majithia (1947-49) and CPN Singh (1949-52).<br>She and Tribhuvan developed elaborate code words in their communications to keep their plans a secret. Here were some of them:<br>Serpent - A Rana<br>Big Snake - Prime Minister Mohan Shumsher<br>Bird - Ambassador<br>Moor - The King<br>Flower - Letter<br>Kite - Airplane<br>Storm \u2013 Evacuation<br>Erika - Lakshmi<br>Erika and the King, is now available as an e-book in English translation and is a timeless historical read. This is a fairy-tale account of that period, but it is accurate and does not exaggerate her own influence.<br>Rajni Chand (pictured left) notes that Erika's account and the oral history that she grew up with in the Shah royal family do match quite a bit. Chand admits she admired and respected Erika, probably also because the book mentions her grandmothers, mother and aunts in loving terms. That is the other unique part of this book -- very few historical accounts in Nepal ever mention the women behind the scenes, and if they do the female protagonists are often portrayed as power-hungry and ruthless.<br>The book concludes with King Tribhuvan\u2019s death in a hospital in Zurich, and as Dinesh Raj Panta notes, leaves open an interpretation about why Erika did so much for a country that would have never recognised her efforts.<br>Even 62 years after its first publication, Erika and the King is a fascinating insider account of Nepal\u2019s royal family through the eyes of a foreigner. It also re-introduces us to Erika Leuchtag, who seems to have played an important role in the escape of Tribhuvan and his family in 1950 to the Indian Embassy and four days later to Delhi.<br>The rest, of course, is history, as the tri-partite Delhi Agreement paved the way for an interim government and move towards a democratic Nepal. We won\u2019t give away any spoilers, but we learn about Erika\u2019s role in getting Tribhuvan to meet the Indian ambassadors and carry a letter from Nehru.<br>This is all stuff that could be turned into a gripping historical tv series like The Crown for which Erika Leuchtag has already written the script.<br>Excerpts:<br>King Tribhuvan was curious about Senior Queen\u2019s physiotherapy treatment and wanted the same treatment for himself too. Here, Erika describes King Tribhuvan's physique in intimate details:<br>He took off the dressing gown. Beneath it, he wore black and white bathing trunks, and his body was as superbly muscled and as graceful as that of the dancing deity Nata Raja. About his hips, and dipping down toward his loins, was a broad belt of thin golden mesh, fastened in the centre by a clip mouthed with a great emerald. Around the biceps of his right arm he writhed a golden snake, it's head a milky moonstone. From his throat, hung amulets strung to threads of gold and emeralds.<br>From neck to ankle he was tattooed, twisting, cunning convolutions of blue lace of his pale skin. The intricate patterns combined on his chest, thighs and shoulders to form ferns, flowers and the outstretched beauty of peacock\u2019s feathers.<br>A letter from King Tribhuvan to Erika Leuchtag where he has given due credit to Erika's effort through coded words:<br>\u2018Dear Miss Lakshmi -- I thank you for your advice -- be still more grave. I will try very much to be grave. The photo of Lakshmi is in my portico, the reflection is in my heart. Do not forget us.<br>The bird came to my garden and gave me the Doctor's flower, but you are the person who sowed the seed and took care of the plant. The flower is very sweet and beautiful. What more? Not only I, but all my party offer you our heartfelt thanks for the trouble you have taken to plant and make it free from pest.\u2019<br>In a conversation with Indian Ambassador CPN Singh during a picnic trip to Budhanilkantha, Erika Leuchtag writes about a conversation with his predecessor:<br>I told him that Surjit had met the King, and that he had promised to help, even by flying the King out of Nepal to asylum in India, but this had come to nothing with Surjit's recall.<br>Chandreshwar Prasad Narain Singh: \"I should meet your King, also, although I cannot promise to fly him out of the country. But first tell me what it is he wants from India. I shall be going to India soon. Perhaps I could talk to Pandit-ji (Jawaharlal Nehru) and perhaps bring a letter back for your King.\u201d<br>Erika and the King<br>(With a King in the Clouds)",
+            "totalTime": "",
+            "author": "Saroj Mishra/Erika Leuchtag",
+            "subject": [
+                "Memoir",
+                "Biography",
+                "History",
+                "Non-Fiction",
+                "Autobiography"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/tribhuvan-ki-erika/Tribhuvan_ki_Erika.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2001%20-%20Shruti_Sambeg.mp3",
+                    "title": "  Tribhuvan Ki Erica part 1  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2002%20-%20Shruti_Sambeg.mp3",
+                    "title": "  Tribhuvan Ki Erica part 2  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2003%20-%20Shruti_Sambeg_2018-10-16.mp3",
+                    "title": "  Tribhuvan Ki Erica part 3  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2004%20-%20Shruti_Sambeg__2018-10-23.mp3",
+                    "title": "  Tribhuvan Ki Erica part 4  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2005%20-%20Shruti_Sambeg_2018-10-30.mp3",
+                    "title": "  Tribhuvan Ki Erica part 5  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2006%20-%20Shruti_Sambeg_2018-11-13.MP3",
+                    "title": "  Tribhuvan Ki Erica part 6  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2007%20-%20Shruti_Sambeg_2018-11-20.MP3",
+                    "title": "  Tribhuvan Ki Erica part 7  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2008%20-%20Shruti_Sambeg_2018-11-27.mp3",
+                    "title": "  Tribhuvan Ki Erica part 8  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2009%20-%20Shruti_Sambeg_2018-12-04.MP3",
+                    "title": "  Tribhuvan Ki Erica part 9  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2010%20-%20Shruti_Sambeg_2018-12-18.mp3",
+                    "title": "  Tribhuvan Ki Erica part 10  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2011%20-%20Shruti_Sambeg_2018-12-25.MP3",
+                    "title": "  Tribhuvan Ki Erica part 11  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2012%20-%20Shruti_Sambeg_2019-01-01.mp3",
+                    "title": "  Tribhuvan Ki Erica part 12  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2013%20-%20Shruti_Sambeg_2019-01-08.mp3",
+                    "title": "  Tribhuvan Ki Erica part 13  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2014%20-%20Shruti_Sambeg_2019-01-15.MP3",
+                    "title": "  Tribhuvan Ki Erica part 14  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2015%20-%20Shruti_Sambeg_2019-01-22.mp3",
+                    "title": "  Tribhuvan Ki Erica part 15  "
+                },
+                {
+                    "url": "https://archive.org/download/TribhuwanKiErika/Tribhuwan%20ki%20Erika%20-%20Erika%20Leuchtag%20-%2016%20-%20Shruti_Sambeg_2019-01-29_last.mp3",
+                    "title": "  Tribhuvan Ki Erica part 16  "
+                }
+            ]
+        },
+        {
+            "title": "Jadau Malik",
+            "description": "Rejoicing in the modern world, when you enter this novel you enter an old world where ordinary human life does not exist. A world where there are more slaves than humans. A world of unbelievable cruelty. Such a world where man is not found is the kingdom of animals. It is heartbreaking to read the thrilling travelogue of this novel's monstrous jungle.<br>Nepali Novel Jadao Malik is written by Bhuwan Hari Sigdel In the novel 'Jadau Malik', we get a picture of the constraints of the marginalized people of the Terai, the landlordism, the pomp and tyranny of the Rana period.",
+            "totalTime": "",
+            "author": "Bhuwan Hari Sigdel",
+            "subject": [
+                "Fiction",
+                "Novel"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/jadau-malik_202410/jadau%20malik.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--Part_01.mp3",
+                    "title": "  Jadau Malik part 1  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--Part_02.mp3",
+                    "title": "  Jadau Malik part 2  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--Part_03.mp3",
+                    "title": "  Jadau Malik part 3  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--Part_04.mp3",
+                    "title": "  Jadau Malik part 4  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--Part_05.mp3",
+                    "title": "  Jadau Malik part 5  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--Part_06.mp3",
+                    "title": "  Jadau Malik part 6  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--part_07.mp3",
+                    "title": "  Jadau Malik part 7  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--part_08.mp3",
+                    "title": "  Jadau Malik part 8  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--part_09.mp3",
+                    "title": "  Jadau Malik part 9  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--part_10.mp3",
+                    "title": "  Jadau Malik part 10  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--Part_11.mp3",
+                    "title": "  Jadau Malik part 11  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--part_12.mp3",
+                    "title": "  Jadau Malik part 12  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--Part_13.mp3",
+                    "title": "  Jadau Malik part 13  "
+                },
+                {
+                    "url": "https://archive.org/download/JadauMalik/Jadau_Malik--Part_14.mp3",
+                    "title": "  Jadau Malik part 14  "
+                }
+            ]
+        },
+        {
+            "title": "Ramila Nani",
+            "description": "This is the tragic story of Ramila who grew up in the surroundings of Kathmandu and the Durbar culture and ritual.<br>",
+            "totalTime": "",
+            "author": "Bhuwan Hari Sigdel",
+            "subject": [
+                "Fiction",
+                "Novel",
+                "Romance",
+                "Kings"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/ramilanani_202410/ramilanani.png",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/ra_na/RN1.mp3",
+                    "title": "Ramila Nani part 1"
+                },
+                {
+                    "url": "https://archive.org/download/ra_na/RN2.mp3",
+                    "title": "Ramila Nani part 2"
+                },
+                {
+                    "url": "https://archive.org/download/ra_na/RN3.mp3",
+                    "title": "Ramila Nani part 3"
+                },
+                {
+                    "url": "https://archive.org/download/ra_na/RN4.mp3",
+                    "title": "Ramila Nani part 4"
+                },
+                {
+                    "url": "https://archive.org/download/ra_na/RN5.mp3",
+                    "title": "Ramila Nani part 5"
+                },
+                {
+                    "url": "https://archive.org/download/ra_na/RN6.mp3",
+                    "title": "Ramila Nani part 6"
+                },
+                {
+                    "url": "https://archive.org/download/ra_na/RN7.mp3",
+                    "title": "Ramila Nani part 7"
+                },
+                {
+                    "url": "https://archive.org/download/ra_na/RN8.mp3",
+                    "title": "Ramila Nani part 8"
+                },
+                {
+                    "url": "https://archive.org/download/ra_na/RN9.mp3",
+                    "title": "Ramila Nani part 9"
+                },
+                {
+                    "url": "https://archive.org/download/ra_na/RN10.mp3",
+                    "title": "Ramila Nani part 10"
+                },
+                {
+                    "url": "https://archive.org/download/ra_na/RN11.mp3",
+                    "title": "Ramila Nani part 11"
+                }
+            ]
+        },
+        {
+            "title": "Na Ughreko Jun",
+            "description": "Naughreko June is written by Janu Kambang Limbu .<br>Reviewing the collection of stories, Thing said that she found all the stories of 'Naughreko June' to be realistic, written on social grounds. Dr. Rai mentioned that Janu's songs were awful. Chairperson of the Nepali Literary Council Shashi Limbu, Secretary Tika Chamling and General Secretary of the Lyricists Association Shubh Mukharung also spoke on the occasion.<br>The collection contains 20 stories and 10 songs in the album. Explaining that there is always work to be done in a foreign country, the creator said that she used to write on her mobile phone while traveling by train or train. ",
+            "totalTime": "",
+            "author": "Janu Kambang Limbu",
+            "subject": [
+                "Fiction",
+                "Short Stories"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/naughreko-jun/naughreko%20jun.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/nuj_20200529/NUJ1.mp3",
+                    "title": "Naughreko Jun part 1"
+                },
+                {
+                    "url": "https://archive.org/download/nuj_20200529/NUJ2.mp3",
+                    "title": "Naughreko Jun part 2"
+                },
+                {
+                    "url": "https://archive.org/download/nuj_20200529/NUJ3.mp3",
+                    "title": "Naughreko Jun part 3"
+                },
+                {
+                    "url": "https://archive.org/download/nuj_20200529/NUJ4.mp3",
+                    "title": "Naughreko Jun part 4"
+                },
+                {
+                    "url": "https://archive.org/download/nuj_20200529/NUJ5.mp3",
+                    "title": "Naughreko Jun part 5"
+                }
+            ]
+        },
+        {
+            "title": "Nihau Namaste",
+            "description": "Nihau Namaste is written by Lakshmi Lamsal 'Lakshmi Puja' The Belt and Road Initiative put forward by China could benefit Nepal and the world. This shows Chinese railway stories, the Chinese people's perception of Nepal and China's poverty alleviation formulas. Nihau Namaste is written by Lakshmi Lamsal. Listen Nihau Nameste with Achyut Ghimire from Shruti Sambeg. <br>The book also mentions the family life of the outgoing Chinese President Xi Jinping. Listen Nihau Nameste You can listen Nihau Nameste in Hamro Awaz. Select episode and listen Nihau Nameste. Full Episodes of Nihau Nameste To Download Right Click the link and Save link as to your computer Full Episodes of Nihau Nameste Nihau Nameste part 1 Nihau Nameste part 2 Nihau Nameste part 3 Nihau Nameste part 4 These Audio of Nihau Nameste are taken from Archive.org which is uploaded by Shrabya Kitab. Nepal-China relations are old and the historical characters who have contributed to the inland relations are Manjushree, Songchan Gampo, Bhrukuti, Araniko, Chinese and Nepali travelers, Chinese leaders of the then kings of Nepal, Mao Tsetung, Chauen Lai, Chiang Cha Min and others. The book also proposes that traditional relations can add a new dimension to inland relations by standing on the characters of history. The author, who has been working as a radio journalist in Beijing, China for the past six years, recounts his experiences in this book. The book also attempts to convey a sense of direct experience to Nepalis unfamiliar with China through a number of articles. The world-famous Great Wall, the role of numbers in Chinese life, traditional medicine, martial arts (acrobatics), Chinese food culture, some of the similarities between Nepal and China, and the Chinese Pem Life will instantly make readers aware of China. The cover of the book also shows a Chinese hand and a Nepali hand joining hands to greet the symbol of the bound path in the background. One of them has a Chinese flag on one hand and a Nepali flag on the other.",
+            "totalTime": "",
+            "author": "Laxmi Lamsal",
+            "subject": [
+                "Fiction",
+                "Short Stories"
+            ],
+            "rating": 0,
+            "image": "https://ia601008.us.archive.org/23/items/nihaunamaste/book%20cover%20-%20Laxmi%20Lamsal%20Laxmipuja%20-%20Nihao%20Namaste.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/nihaunamaste/Laxmi%20Lamsal%20%27Laxmi%20puja%27%20-%20Nihau%20Namaste%20%20-%2001%20-%20Shruti_Sambeg_2019_05_17.mp3",
+                    "title": "  Nihau Nameste part 1  "
+                },
+                {
+                    "url": "https://archive.org/download/nihaunamaste/Laxmi%20Lamsal%20%27Laxmi%20puja%27%20-%20Nihau%20Namaste%20%20-%2002%20-%20Shruti_Sambeg_2019_05_24.mp3",
+                    "title": "  Nihau Nameste part 2  "
+                },
+                {
+                    "url": "https://archive.org/download/nihaunamaste/Laxmi%20Lamsal%20%27Laxmi%20puja%27%20-%20Nihau%20Namaste%20%20-%2003%20-%20Shruti_Sambeg_2019_05_31.mp3",
+                    "title": "  Nihau Nameste part 3  "
+                },
+                {
+                    "url": "https://archive.org/download/nihaunamaste/Laxmi%20Lamsal%20%27Laxmi%20puja%27%20-%20Nihau%20Namaste%20%20-%2004%20-%20Shruti_Sambeg_2019_06_07.mp3",
+                    "title": "  Nihau Nameste part 4  "
+                }
+            ]
+        },
+        {
+            "title": "Jhajhalkaharu",
+            "description": "Jhajhalkaharu is written by Dilli Prasad Acharya. He is Former administrator and journalist. Dilli Prasad Acharya's memories is 'Jhajhalkaharu'. In the book, three aspects of Acharya's life, government service, investigative journalism and travel, are strongly presented. Listen Jhajhalkaharu You can listen Jhajhalkaharu in Hamro Awaz. Select episode and listen Jhajhalkaharu. Full Episodes of Jhajhalkaharu To Download Right Click the link and Save link as to your computer Full Episodes of Jhajhalkaharu Jhajhalkaharu part 1 Jhajhalkaharu part 2 Jhajhalkaharu part 3 Jhajhalkaharu part 4 Jhajhalkaharu part 5 Jhajhalkaharu part 6 Jhajhalkaharu part 7 Jhajhalkaharu part 8 These Audio of Jhajhalkaharu are taken from Archive.org which is uploaded by Shrabya Kitab.",
+            "totalTime": "",
+            "author": "Dilli Prasad Acharya",
+            "subject": [
+                "Fiction",
+                "Short Stories"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/dilliprasadacharyajhajhalkaharu/bookcover%20-%20Dilli%20Prasad%20Acharya%20-%20Jhajhalka%20Haru_front.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/dilliprasadacharyajhajhalkaharu/Dilli%20Prasad%20Acharya%20-%20Jhajhalka%20haru%20%20-%2001%20-%20Shruti_Sambeg_2019-06-21.mp3",
+                    "title": "  Jhajhalkaharu part 1  "
+                },
+                {
+                    "url": "https://archive.org/download/dilliprasadacharyajhajhalkaharu/Dilli%20Prasad%20Acharya%20-%20Jhajhalka%20haru%20%20-%2002%20-%20Shruti_Sambeg_2019-06-28.mp3",
+                    "title": "  Jhajhalkaharu part 2  "
+                },
+                {
+                    "url": "https://archive.org/download/dilliprasadacharyajhajhalkaharu/Dilli%20Prasad%20Acharya%20-%20Jhajhalka%20haru%20%20-%2003%20-%20Shruti_Sambeg_2019-07-05.mp3",
+                    "title": "  Jhajhalkaharu part 3  "
+                },
+                {
+                    "url": "https://archive.org/download/dilliprasadacharyajhajhalkaharu/Dilli%20Prasad%20Acharya%20-%20Jhajhalka%20haru%20%20-%2004%20-%20Shruti_Sambeg_2019-07-12.mp3",
+                    "title": "  Jhajhalkaharu part 4  "
+                },
+                {
+                    "url": "https://archive.org/download/dilliprasadacharyajhajhalkaharu/Dilli%20Prasad%20Acharya%20-%20Jhajhalka%20haru%20%20-%2005%20-%20Shruti_Sambeg_2019-07-19.mp3",
+                    "title": "  Jhajhalkaharu part 5  "
+                },
+                {
+                    "url": "https://archive.org/download/dilliprasadacharyajhajhalkaharu/Dilli%20Prasad%20Acharya%20-%20Jhajhalka%20haru%20%20-%2006%20-%20Shruti_Sambeg_2019-07-26.mp3",
+                    "title": "  Jhajhalkaharu part 6  "
+                },
+                {
+                    "url": "https://archive.org/download/dilliprasadacharyajhajhalkaharu/Dilli%20Prasad%20Acharya%20-%20Jhajhalka%20haru%20%20-%2007%20-%20Shruti_Sambeg_2019_08_02.mp3",
+                    "title": "  Jhajhalkaharu part 7  "
+                },
+                {
+                    "url": "https://archive.org/download/dilliprasadacharyajhajhalkaharu/Dilli%20Prasad%20Acharya%20-%20Jhajhalka%20haru%20%20-%2008%20-%20Shruti_Sambeg_2019-08-09_last.mp3",
+                    "title": "  Jhajhalkaharu part 8  "
+                }
+            ]
+        },
+        {
+            "title": "White Cane",
+            "description": "<br>\u092a\u091b\u093f\u0932\u094d\u0932\u094b \u092c\u093e\u0939\u093f\u0930\u0940 \u092a\u0943\u0937\u094d\u0920\u092c\u093e\u091f<br>\u0915\u0935\u093f\u0924\u093e\u092e\u093e\u0930\u094d\u092b\u0924 \u0938\u093e\u0939\u093f\u0924\u094d\u092f\u093f\u0915 \u092a\u093e\u0907\u0932\u093e \u091a\u093e\u0932\u0947\u0915\u0940 \u092e\u0928\u093f\u0937\u093e \u0917\u094c\u091a\u0928\u0915\u094b \u092a\u0939\u093f\u0932\u094b \u0909\u092a\u0928\u094d\u092f\u093e\u0938 \u0925\u093f\u092f\u094b- \u0935\u0932\u094d\u0932\u0940\u0915\u094b \u0921\u093e\u092f\u0930\u0940 \u0964 \u092e\u0939\u093f\u0932\u093e \u0932\u0947\u0916\u0915\u0932\u0947 \u0928\u093f\u0903\u0938\u0919\u094d\u0915\u094b\u091a \u092a\u0941\u0930\u0941\u0937 \u0935\u0947\u0936\u094d\u092f\u093e\u0935\u0943\u0924\u094d\u0924\u093f\u0915\u093e \u092c\u093e\u0930\u0947\u092e\u093e \u0932\u0947\u0916\u0947\u0915\u094b \u0924\u094d\u092f\u094b \u0909\u092a\u0928\u094d\u092f\u093e\u0938 \u092a\u094d\u0930\u0936\u0902\u0938\u093f\u0924 \u092d\u092f\u094b \u092a\u0928\u093f \u0964 \u0928\u0935\u0940\u0928\u0924\u092e \u0909\u092a\u0928\u094d\u092f\u093e\u0938 \u0939\u094d\u0935\u093e\u0907\u091f \u0915\u0947\u0928\u092e\u093e \u092d\u0928\u0947 \u0909\u0928\u0932\u0947 \u090f\u0915 \u091c\u0928\u094d\u092e\u091c\u093e\u0924 \u0926\u0943\u0937\u094d\u091f\u093f\u0935\u093f\u0939\u0940\u0928 \u092a\u093e\u0924\u094d\u0930\u0915\u094b \u092a\u094d\u0930\u0947\u092e \u0930 \u091c\u0940\u0935\u0928 \u0905\u0928\u093f \u0938\u0919\u094d\u0918\u0930\u094d\u0937\u0932\u093e\u0908 \u0916\u094b\u0924\u0932\u0947\u0915\u0940 \u091b\u0928\u094d \u0964 \u0909\u092a\u0928\u094d\u092f\u093e\u0938\u092e\u093e \u0939\u0935\u093e\u0907\u091f \u0915\u0947\u0928 \u0924 \u0909\u0938\u0915\u094b '\u0906\u0907\u0921\u0947\u0928\u094d\u091f\u093f\u091f\u0940 \u0915\u093e\u0930\u094d\u0921 \u091c\u0938\u094d\u0924\u094b \u092e\u093e\u0924\u094d\u0930 \u0932\u093e\u0917\u094d\u091b \u0964 \u0909\u0938\u0915\u094b \u091c\u0940\u0935\u0928\u092e\u093e \u090f\u0915\u092a\u091b\u093f \u0905\u0930\u094d\u0915\u0940 \u092e\u0939\u093f\u0932\u093e \u0905\u0938\u0932\u0940 \u0939\u094d\u0935\u093e\u0907\u091f \u0915\u0947\u0928 \u092c\u0928\u0947\u0930 \u0906\u090f\u0915\u093e \u091b\u0928\u094d \u0964 \u0935\u093e\u0915\u093f\u0919 \u0938\u094d\u091f\u093f\u0915 \u091c\u0938\u094d\u0924\u0948 \u091a\u092e\u094d\u0915\u093f\u0932\u094b \u091b \u0909\u0938\u0915\u094b \u0935\u094d\u092f\u0915\u094d\u0924\u093f\u0924\u094d\u0935 \u0964 \u0939\u094d\u0935\u093e\u0907\u091f \u0915\u0947\u0928 \u0909\u0938\u0915\u094b \u092e\u0941\u0915\u094d\u0924 \u091c\u0940\u0935\u0928\u0915\u094b \u091a\u093f\u0939\u0928 \u092d\u090f\u0915\u094b \u091b \u0964 \u0938\u094d\u0935\u0924\u0928\u094d\u0924\u094d\u0930, \u0938\u094d\u0935\u093e\u0935\u0932\u092e\u094d\u092c\u0940 \u0930 \u0938\u0915\u094d\u0937\u092e \u092f\u094b \u092a\u093e\u0924\u094d\u0930\u0932\u0947 \u0926\u0943\u0937\u094d\u091f\u093f\u0935\u093f\u0939\u0940\u0928\u092a\u094d\u0930\u0924\u093f\u0915\u094b \u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u0926\u0943\u0937\u094d\u091f\u093f\u0915\u094b\u0923\u092e\u093e \u092a\u094d\u0930\u0936\u094d\u0928 \u0909\u0920\u093e\u090f\u0915\u094b \u091b \u0964 \u0909\u092a\u0928\u094d\u092f\u093e\u0938\u092e\u093e \u092e\u0928\u093f\u0937\u093e\u0932\u0947 \u0936\u093f\u0937\u094d\u091f \u092d\u093e\u0937\u093e\u092e\u093e \u0928\u093e\u0930\u0940 \u0930 \u092a\u0941\u0930\u0941\u0937\u0915\u093e \u092c\u0939\u0941\u0906\u092f\u093e\u092e\u093f\u0915 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0915\u094b \u092a\u0930\u0916 \u0917\u0930\u0947\u0915\u0940 \u091b\u0928\u094d \u0964 \u0917\u0926\u094d\u092f \u0938\u093e\u0939\u093f\u0924\u094d\u092f\u092e\u093e \u0909\u0928\u0932\u0947 \u0906\u092b\u0948\u0932\u093e\u0908 \u0932\u093f\u090f\u0915\u094b \u090f\u0909\u091f\u093e \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u092a\u0928\u093f \u0939\u094b- \u0939\u094d\u0935\u093e\u0907\u091f \u0915\u0947\u0928 \u0964 \u092d\u093f\u091c\u0941\u0905\u0932 \u0907\u092b\u0947\u0915\u094d\u091f\u092c\u093f\u0928\u0948 \u092a\u0928\u093f \u0909\u092a\u0928\u094d\u092f\u093e\u0938 \u0932\u0947\u0916\u094d\u0928\u0947 \u0938\u093e\u0939\u0938 \u0909\u0928\u0932\u0947 \u0917\u0930\u0947\u0915\u0940 \u091b\u0928\u094d \u0964 \u092f\u094b \u0909\u092a\u0928\u094d\u092f\u093e\u0938 \u0906\u0926\u094d\u092f\u094b\u092a\u093e\u0928\u094d\u0924 \u092a\u0920\u0928\u0940\u092f \u0930 \u0930\u0942\u091a\u093f\u0915\u0930 \u091b \u0964",
+            "totalTime": "",
+            "author": "Manisha Gauchan",
+            "subject": [
+                "Novel",
+                "Fiction"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/white-cane-by-manisha-gauchan-thumbnail-280x-405-70/White_Cane_by_Manisha_Gauchan-thumbnail-280x405-70.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_01.mp3",
+                    "title": "  White Cane part 1  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_02.mp3",
+                    "title": "  White Cane part 2  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_03.mp3",
+                    "title": "  White Cane part 3  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_04.mp3",
+                    "title": "  White Cane part 4  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_05.mp3",
+                    "title": "  White Cane part 5  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_06.mp3",
+                    "title": "  White Cane part 6  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_07.mp3",
+                    "title": "  White Cane part 7  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_08.mp3",
+                    "title": "  White Cane part 8  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_09.mp3",
+                    "title": "  White Cane part 9  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_10.mp3",
+                    "title": "  White Cane part 10  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_11.mp3",
+                    "title": "  White Cane part 11  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_12.mp3",
+                    "title": "  White Cane part 12  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_13.mp3",
+                    "title": "  White Cane part 13  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_14.mp3",
+                    "title": "  White Cane part 14  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_15.mp3",
+                    "title": "  White Cane part 15  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_16.mp3",
+                    "title": "  White Cane part 16  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_17.mp3",
+                    "title": "  White Cane part 17  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_18.mp3",
+                    "title": "  White Cane part 18  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_19.mp3",
+                    "title": "  White Cane part 19  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_20.mp3",
+                    "title": "  White Cane part 20  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_21.mp3",
+                    "title": "  White Cane part 21  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_22.mp3",
+                    "title": "  White Cane part 22  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_23.mp3",
+                    "title": "  White Cane part 23  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_24.mp3",
+                    "title": "  White Cane part 24  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_25.mp3",
+                    "title": "  White Cane part 25  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_26.mp3",
+                    "title": "  White Cane part 26  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_27.mp3",
+                    "title": "  White Cane part 27  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_28.mp3",
+                    "title": "  White Cane part 28  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_29.mp3",
+                    "title": "  White Cane part 29  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_30.mp3",
+                    "title": "  White Cane part 30  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_31.mp3",
+                    "title": "  White Cane part 31  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_32.mp3",
+                    "title": "  White Cane part 32  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_33.mp3",
+                    "title": "  White Cane part 33  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_34.mp3",
+                    "title": "  White Cane part 34  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_35.mp3",
+                    "title": "  White Cane part 35  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_36.mp3",
+                    "title": "  White Cane part 36  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_37.mp3",
+                    "title": "  White Cane part 37  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_38.mp3",
+                    "title": "  White Cane part 38  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_39.mp3",
+                    "title": "  White Cane part 39  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_40.mp3",
+                    "title": "  White Cane part 40  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_41.mp3",
+                    "title": "  White Cane part 41  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_42.mp3",
+                    "title": "  White Cane part 42  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_43.mp3",
+                    "title": "  White Cane part 43  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_44.mp3",
+                    "title": "  White Cane part 44  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_45.mp3",
+                    "title": "  White Cane part 45  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_46.mp3",
+                    "title": "  White Cane part 46  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_47.mp3",
+                    "title": "  White Cane part 47  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_48.mp3",
+                    "title": "  White Cane part 48  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_49.mp3",
+                    "title": "  White Cane part 49  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_50.mp3",
+                    "title": "  White Cane part 50  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_51.mp3",
+                    "title": "  White Cane part 51  "
+                },
+                {
+                    "url": "https://archive.org/download/whitecane/White_Cane--Part_52.mp3",
+                    "title": "  White Cane part 52  "
+                }
+            ]
+        },
+        {
+            "title": "Taap",
+            "description": "Novel Taap is written by Sharda Sharma.<br>Taap refers to the power of scorching heat or the power gained from struggle. Another thing is that people learn and experience Taap from the lessons learned from the struggles of their lives, suffering from the supernatural, material and spiritual. As the Taap subsides, people are still gaining energy. That is why it is said that life is struggle, struggle is life. The experiences of a character in the course of his life are the subject matter of a novel. Basically, this novel seeks to highlight various aspects of feminism. As the author is also a woman, the issues of feminism are significant and she has also highlighted the male tendency. The disgusting deeds of a man in a dignified position like a minister are expressed through a novel. Evidence of how inferior a person can be without regard to his position is evident in the novel.<br>Although the author is a woman, she seems to have studied male tendencies very deeply. The important aspect of the novel is that it easily presents the male attitude. We have got the impression that such characters in the recent Nepali political sky also belong to Salva.<br>One of the characters in the novel develops hatred towards people while living, and, the conclusion of those characters towards people is as follows: - 'Perhaps people are animals with the mask of civilization.' It can be done. Sharma's collection of travel essays on 'Land of Flowers' is also excellent. Considering the uniqueness of her writing, Sharma can be counted among the top five women writers in Nepali literature.",
+            "totalTime": "",
+            "author": "Sarada Sharma",
+            "subject": [
+                "Fiction"
+            ],
+            "rating": 0,
+            "image": "https://archive.org/download/taap-thumbnail-280x405-70/taap-thumbnail-280x405-70.jpg",
+            "language": "Nepali",
+            "playlist": [
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_1.mp3",
+                    "title": "  Taap part 1  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_2.mp3",
+                    "title": "  Taap part 2  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_3.mp3",
+                    "title": "  Taap part 3  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_4.mp3",
+                    "title": "  Taap part 4  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_5.mp3",
+                    "title": "  Taap part 5  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_6.mp3",
+                    "title": "  Taap part 6  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_7.mp3",
+                    "title": "  Taap part 7  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_8.mp3",
+                    "title": "  Taap part 8  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_9.mp3",
+                    "title": "  Taap part 9  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_10.mp3",
+                    "title": "  Taap part 10  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_11.mp3",
+                    "title": "  Taap part 11  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--part_12.mp3",
+                    "title": "  Taap part 12  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_13.mp3",
+                    "title": "  Taap part 13  "
+                },
+                {
+                    "url": "https://archive.org/download/abiskar_gmail_Taap/Taap--Part_14.mp3",
+                    "title": "  Taap part 14  "
+                }
+            ]
+        }
+    ]
+}
