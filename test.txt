@@ -1,6 +1,6 @@
 {
     "titleOfRepo": "Nepali Audiobooks",
-    "imageOfRepo": "some blah blah link",
+    "imageOfRepo": "https://img.freeflagicons.com/thumb/square_icon/nepal/nepal_640.png",
     "credits": [],
     "audiobooks": [
         {
